@@ -1,0 +1,146 @@
+:root {
+    --bg-color: #fbfbfd;
+    --text-primary: #1d1d1f;
+    --text-secondary: #86868b;
+    --success-color: #34c759;
+    --error-color: #ff3b30;
+    --font-stack: -apple-system, BlinkMacSystemFont, "Inter", "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  }
+  
+  body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: var(--bg-color);
+    color: var(--text-primary);
+    font-family: var(--font-stack);
+    -webkit-font-smoothing: antialiased;
+  }
+  
+  .game-container {
+    text-align: center;
+    max-width: 600px;
+    width: 100%;
+    padding: 2rem;
+  }
+  
+  .score-display {
+    font-size: 0.9rem;
+    color: var(--text-secondary);
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+    margin-bottom: 2rem;
+  }
+  
+  .pos-badge {
+    display: inline-block;
+    font-size: 0.8rem;
+    font-style: italic;
+    color: var(--text-secondary);
+    background: #e5e5ea;
+    padding: 0.2rem 0.6rem;
+    border-radius: 12px;
+    margin-bottom: 0.5rem;
+  }
+  
+  .definition {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    margin-bottom: 2rem;
+    min-height: 3rem;
+    line-height: 1.5;
+  }
+  
+  .word-input {
+    background: transparent;
+    border: none;
+    border-bottom: 2px solid #d2d2d7;
+    color: var(--text-primary);
+    font-size: 3rem;
+    font-weight: 600;
+    text-align: center;
+    width: 100%;
+    padding-bottom: 0.5rem;
+    outline: none;
+    transition: all 0.3s ease-in-out;
+  }
+  
+  .word-input:focus { border-bottom-color: var(--text-primary); }
+  .word-input.state-success { color: var(--success-color); border-bottom-color: var(--success-color); transform: scale(1.02); }
+  .word-input.state-error { color: var(--error-color); border-bottom-color: var(--error-color); animation: shake 0.4s cubic-bezier(.36,.07,.19,.97) both; }
+  
+  .hint-btn {
+    background: none;
+    border: none;
+    color: var(--text-secondary);
+    font-family: var(--font-stack);
+    font-size: 0.8rem;
+    margin-top: 2rem;
+    cursor: pointer;
+    opacity: 0.5;
+    transition: opacity 0.3s ease, transform 0.2s ease;
+    letter-spacing: 0.02em;
+    text-decoration: underline;
+    text-underline-offset: 4px;
+  }
+  
+  .hint-btn:hover {
+    opacity: 1;
+  }
+  
+  .hint-btn:active {
+    transform: scale(0.98);
+  }
+  
+  /* Subtle animation for when the hint is revealed in the input */
+  .hint-reveal {
+    color: var(--text-secondary) !important;
+    font-style: italic;
+  }
+
+  .choices-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 1.5rem;
+    margin-bottom: 3rem;
+    min-height: 2rem; /* Prevent layout jump */
+  }
+  
+  .choice-item {
+    font-size: 1rem;
+    font-weight: 500;
+    color: var(--text-secondary);
+    letter-spacing: 0.03em;
+    text-transform: lowercase;
+    opacity: 0.8;
+    transition: opacity 0.3s ease;
+    user-select: none;
+  }
+
+  /* We don't want them to look like buttons, 
+   but a slight highlight on hover is nice for 'Apple' feel */
+  .choice-item:hover {
+    color: var(--text-primary);
+    opacity: 1;
+  }
+
+  /* Responsiveness for the options */
+  @media (max-width: 480px) {
+    .choices-container {
+      gap: 1rem;
+    }
+    .choice-item {
+      font-size: 0.9rem;
+    }
+  }
+  
+
+  @keyframes shake {
+    10%, 90% { transform: translate3d(-1px, 0, 0); }
+    20%, 80% { transform: translate3d(2px, 0, 0); }
+    30%, 50%, 70% { transform: translate3d(-4px, 0, 0); }
+    40%, 60% { transform: translate3d(4px, 0, 0); }
+  }

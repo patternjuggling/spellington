@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Minimalist Spelling</title>
+    <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+    <div class="game-container">
+        <div class="score-display">Score: <span id="score">0</span></div>
+        
+        <div class="definition-container">
+            <span id="part-of-speech" class="pos-badge"></span>
+            <p id="definition" class="definition">Loading...</p>
+        </div>
+    
+        <div id="choices-container" class="choices-container"></div>
+    
+        <input type="text" id="word-input" class="word-input" autocomplete="off" spellcheck="false" autofocus placeholder="Type the correct word...">
+        
+        <button id="hint-btn" class="hint-btn">Need a hint?</button>
+    </div>
+
+    <script type="module" src="js/main.js"></script>
+</body>
+</html>

@@ -1,0 +1,5002 @@
+[
+ {
+   "Word": "Abandon",
+   "Part_of_Speech": "v",
+   "Definition": "Cease to support or look after"
+ },
+ {
+   "Word": "Abstract",
+   "Part_of_Speech": "adj",
+   "Definition": "Existing in thought or as an idea"
+ },
+ {
+   "Word": "Accumulate",
+   "Part_of_Speech": "v",
+   "Definition": "Gather together or acquire"
+ },
+ {
+   "Word": "Accurate",
+   "Part_of_Speech": "adj",
+   "Definition": "Correct in all details"
+ },
+ {
+   "Word": "Acquire",
+   "Part_of_Speech": "v",
+   "Definition": "Buy or obtain"
+ },
+ {
+   "Word": "Adapt",
+   "Part_of_Speech": "v",
+   "Definition": "Make suitable for a new use"
+ },
+ {
+   "Word": "Adequate",
+   "Part_of_Speech": "adj",
+   "Definition": "Satisfactory or acceptable"
+ },
+ {
+   "Word": "Adjacent",
+   "Part_of_Speech": "adj",
+   "Definition": "Next to or adjoining"
+ },
+ {
+   "Word": "Adjust",
+   "Part_of_Speech": "v",
+   "Definition": "Alter or move slightly"
+ },
+ {
+   "Word": "Advocate",
+   "Part_of_Speech": "v",
+   "Definition": "Publicly recommend or support"
+ },
+ {
+   "Word": "Affect",
+   "Part_of_Speech": "v",
+   "Definition": "Have an effect on"
+ },
+ {
+   "Word": "Aggregate",
+   "Part_of_Speech": "n",
+   "Definition": "A whole formed by combining elements"
+ },
+ {
+   "Word": "Allocate",
+   "Part_of_Speech": "v",
+   "Definition": "Distribute for a particular purpose"
+ },
+ {
+   "Word": "Alter",
+   "Part_of_Speech": "v",
+   "Definition": "Change or cause to change"
+ },
+ {
+   "Word": "Ambiguous",
+   "Part_of_Speech": "adj",
+   "Definition": "Open to more than one interpretation"
+ },
+ {
+   "Word": "Amend",
+   "Part_of_Speech": "v",
+   "Definition": "Make minor changes to make fairer"
+ },
+ {
+   "Word": "Analogy",
+   "Part_of_Speech": "n",
+   "Definition": "A comparison between two things"
+ },
+ {
+   "Word": "Analyze",
+   "Part_of_Speech": "v",
+   "Definition": "Examine in detail"
+ },
+ {
+   "Word": "Annual",
+   "Part_of_Speech": "adj",
+   "Definition": "Occurring once every year"
+ },
+ {
+   "Word": "Anticipate",
+   "Part_of_Speech": "v",
+   "Definition": "Regard as probable"
+ },
+ {
+   "Word": "Apparent",
+   "Part_of_Speech": "adj",
+   "Definition": "Clearly visible or understood"
+ },
+ {
+   "Word": "Append",
+   "Part_of_Speech": "v",
+   "Definition": "Add as an attachment"
+ },
+ {
+   "Word": "Appreciate",
+   "Part_of_Speech": "v",
+   "Definition": "Recognize the full worth of"
+ },
+ {
+   "Word": "Approach",
+   "Part_of_Speech": "v",
+   "Definition": "Come nearer to"
+ },
+ {
+   "Word": "Appropriate",
+   "Part_of_Speech": "adj",
+   "Definition": "Suitable or proper"
+ },
+ {
+   "Word": "Approximate",
+   "Part_of_Speech": "adj",
+   "Definition": "Close to the actual"
+ },
+ {
+   "Word": "Arbitrary",
+   "Part_of_Speech": "adj",
+   "Definition": "Based on random choice"
+ },
+ {
+   "Word": "Aspect",
+   "Part_of_Speech": "n",
+   "Definition": "A particular part or feature"
+ },
+ {
+   "Word": "Assess",
+   "Part_of_Speech": "v",
+   "Definition": "Evaluate the nature of"
+ },
+ {
+   "Word": "Assign",
+   "Part_of_Speech": "v",
+   "Definition": "Allocate a job or duty"
+ },
+ {
+   "Word": "Assist",
+   "Part_of_Speech": "v",
+   "Definition": "Help someone"
+ },
+ {
+   "Word": "Assume",
+   "Part_of_Speech": "v",
+   "Definition": "Suppose to be the case"
+ },
+ {
+   "Word": "Assure",
+   "Part_of_Speech": "v",
+   "Definition": "Tell someone positively"
+ },
+ {
+   "Word": "Attach",
+   "Part_of_Speech": "v",
+   "Definition": "Join or fasten"
+ },
+ {
+   "Word": "Attain",
+   "Part_of_Speech": "v",
+   "Definition": "Succeed in achieving"
+ },
+ {
+   "Word": "Attribute",
+   "Part_of_Speech": "v",
+   "Definition": "Regard as being caused by"
+ },
+ {
+   "Word": "Author",
+   "Part_of_Speech": "n",
+   "Definition": "Writer of a book"
+ },
+ {
+   "Word": "Authority",
+   "Part_of_Speech": "n",
+   "Definition": "Power or right to give orders"
+ },
+ {
+   "Word": "Automate",
+   "Part_of_Speech": "v",
+   "Definition": "Convert to operate automatically"
+ },
+ {
+   "Word": "Available",
+   "Part_of_Speech": "adj",
+   "Definition": "Able to be used"
+ },
+ {
+   "Word": "Aware",
+   "Part_of_Speech": "adj",
+   "Definition": "Having knowledge of a situation"
+ },
+ {
+   "Word": "Basis",
+   "Part_of_Speech": "n",
+   "Definition": "Foundation of something"
+ },
+ {
+   "Word": "Benefit",
+   "Part_of_Speech": "n",
+   "Definition": "Advantage or profit"
+ },
+ {
+   "Word": "Bias",
+   "Part_of_Speech": "n",
+   "Definition": "Prejudice in favor of or against"
+ },
+ {
+   "Word": "Bond",
+   "Part_of_Speech": "n",
+   "Definition": "Relationship or connection"
+ },
+ {
+   "Word": "Brief",
+   "Part_of_Speech": "adj",
+   "Definition": "Of short duration"
+ },
+ {
+   "Word": "Bulk",
+   "Part_of_Speech": "n",
+   "Definition": "The mass or magnitude of"
+ },
+ {
+   "Word": "Capable",
+   "Part_of_Speech": "adj",
+   "Definition": "Able to do something"
+ },
+ {
+   "Word": "Capacity",
+   "Part_of_Speech": "n",
+   "Definition": "The maximum amount"
+ },
+ {
+   "Word": "Category",
+   "Part_of_Speech": "n",
+   "Definition": "Class or division of things"
+ },
+ {
+   "Word": "Cease",
+   "Part_of_Speech": "v",
+   "Definition": "Come to an end"
+ },
+ {
+   "Word": "Challenge",
+   "Part_of_Speech": "n",
+   "Definition": "Task requiring great effort"
+ },
+ {
+   "Word": "Channel",
+   "Part_of_Speech": "n",
+   "Definition": "Way of communication"
+ },
+ {
+   "Word": "Chapter",
+   "Part_of_Speech": "n",
+   "Definition": "Main division of a book"
+ },
+ {
+   "Word": "Chart",
+   "Part_of_Speech": "n",
+   "Definition": "Sheet of information"
+ },
+ {
+   "Word": "Chemical",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to chemistry"
+ },
+ {
+   "Word": "Circumstance",
+   "Part_of_Speech": "n",
+   "Definition": "Fact or condition connected to an event"
+ },
+ {
+   "Word": "Cite",
+   "Part_of_Speech": "v",
+   "Definition": "Quote as evidence"
+ },
+ {
+   "Word": "Civil",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to ordinary citizens"
+ },
+ {
+   "Word": "Clarify",
+   "Part_of_Speech": "v",
+   "Definition": "Make less confused"
+ },
+ {
+   "Word": "Classic",
+   "Part_of_Speech": "adj",
+   "Definition": "Judged over a period of time"
+ },
+ {
+   "Word": "Clause",
+   "Part_of_Speech": "n",
+   "Definition": "Unit of grammatical structure"
+ },
+ {
+   "Word": "Code",
+   "Part_of_Speech": "n",
+   "Definition": "System of rules"
+ },
+ {
+   "Word": "Coherent",
+   "Part_of_Speech": "adj",
+   "Definition": "Logical and consistent"
+ },
+ {
+   "Word": "Coincide",
+   "Part_of_Speech": "v",
+   "Definition": "Occur at the same time"
+ },
+ {
+   "Word": "Collapse",
+   "Part_of_Speech": "v",
+   "Definition": "Fall down"
+ },
+ {
+   "Word": "Colleague",
+   "Part_of_Speech": "n",
+   "Definition": "Person one works with"
+ },
+ {
+   "Word": "Commence",
+   "Part_of_Speech": "v",
+   "Definition": "Begin"
+ },
+ {
+   "Word": "Comment",
+   "Part_of_Speech": "n",
+   "Definition": "Verbal or written remark"
+ },
+ {
+   "Word": "Commission",
+   "Part_of_Speech": "n",
+   "Definition": "Instruction or command"
+ },
+ {
+   "Word": "Commit",
+   "Part_of_Speech": "v",
+   "Definition": "Carry out a mistake or crime"
+ },
+ {
+   "Word": "Commodity",
+   "Part_of_Speech": "n",
+   "Definition": "Raw material or product"
+ },
+ {
+   "Word": "Communicate",
+   "Part_of_Speech": "v",
+   "Definition": "Share information"
+ },
+ {
+   "Word": "Community",
+   "Part_of_Speech": "n",
+   "Definition": "Group of people living together"
+ },
+ {
+   "Word": "Compatible",
+   "Part_of_Speech": "adj",
+   "Definition": "Able to exist together"
+ },
+ {
+   "Word": "Compensate",
+   "Part_of_Speech": "v",
+   "Definition": "Make up for something"
+ },
+ {
+   "Word": "Compile",
+   "Part_of_Speech": "v",
+   "Definition": "Produce a list or book"
+ },
+ {
+   "Word": "Complement",
+   "Part_of_Speech": "n",
+   "Definition": "Thing that completes something"
+ },
+ {
+   "Word": "Complex",
+   "Part_of_Speech": "adj",
+   "Definition": "Consisting of many parts"
+ },
+ {
+   "Word": "Component",
+   "Part_of_Speech": "n",
+   "Definition": "Part of a larger whole"
+ },
+ {
+   "Word": "Compound",
+   "Part_of_Speech": "n",
+   "Definition": "Thing composed of two elements"
+ },
+ {
+   "Word": "Comprehensive",
+   "Part_of_Speech": "adj",
+   "Definition": "Complete and including everything"
+ },
+ {
+   "Word": "Comprise",
+   "Part_of_Speech": "v",
+   "Definition": "Consist of"
+ },
+ {
+   "Word": "Compute",
+   "Part_of_Speech": "v",
+   "Definition": "Calculate"
+ },
+ {
+   "Word": "Conceal",
+   "Part_of_Speech": "v",
+   "Definition": "Hide"
+ },
+ {
+   "Word": "Concede",
+   "Part_of_Speech": "v",
+   "Definition": "Admit that something is true"
+ },
+ {
+   "Word": "Conceive",
+   "Part_of_Speech": "v",
+   "Definition": "Form a plan or idea"
+ },
+ {
+   "Word": "Concentrate",
+   "Part_of_Speech": "v",
+   "Definition": "Focus attention"
+ },
+ {
+   "Word": "Concept",
+   "Part_of_Speech": "n",
+   "Definition": "Abstract idea"
+ },
+ {
+   "Word": "Concert",
+   "Part_of_Speech": "n",
+   "Definition": "Musical performance"
+ },
+ {
+   "Word": "Conclude",
+   "Part_of_Speech": "v",
+   "Definition": "Bring to an end"
+ },
+ {
+   "Word": "Concurrent",
+   "Part_of_Speech": "adj",
+   "Definition": "Existing at the same time"
+ },
+ {
+   "Word": "Conduct",
+   "Part_of_Speech": "n",
+   "Definition": "Behavior"
+ },
+ {
+   "Word": "Confer",
+   "Part_of_Speech": "v",
+   "Definition": "Grant or bestow"
+ },
+ {
+   "Word": "Confine",
+   "Part_of_Speech": "v",
+   "Definition": "Keep within limits"
+ },
+ {
+   "Word": "Confirm",
+   "Part_of_Speech": "v",
+   "Definition": "Establish the truth of"
+ },
+ {
+   "Word": "Conflict",
+   "Part_of_Speech": "n",
+   "Definition": "Serious disagreement"
+ },
+ {
+   "Word": "Conform",
+   "Part_of_Speech": "v",
+   "Definition": "Comply with rules"
+ },
+ {
+   "Word": "Consent",
+   "Part_of_Speech": "n",
+   "Definition": "Permission"
+ },
+ {
+   "Word": "Consequent",
+   "Part_of_Speech": "adj",
+   "Definition": "Following as a result"
+ },
+ {
+   "Word": "Conserve",
+   "Part_of_Speech": "v",
+   "Definition": "Protect from harm"
+ },
+ {
+   "Word": "Consider",
+   "Part_of_Speech": "v",
+   "Definition": "Think carefully about"
+ },
+ {
+   "Word": "Consist",
+   "Part_of_Speech": "v",
+   "Definition": "Be composed of"
+ },
+ {
+   "Word": "Constant",
+   "Part_of_Speech": "adj",
+   "Definition": "Occurring continuously"
+ },
+ {
+   "Word": "Constitute",
+   "Part_of_Speech": "v",
+   "Definition": "Be a part of"
+ },
+ {
+   "Word": "Constrain",
+   "Part_of_Speech": "v",
+   "Definition": "Compel to do something"
+ },
+ {
+   "Word": "Construct",
+   "Part_of_Speech": "v",
+   "Definition": "Build"
+ },
+ {
+   "Word": "Consult",
+   "Part_of_Speech": "v",
+   "Definition": "Seek information from"
+ },
+ {
+   "Word": "Consume",
+   "Part_of_Speech": "v",
+   "Definition": "Eat or drink"
+ },
+ {
+   "Word": "Contact",
+   "Part_of_Speech": "n",
+   "Definition": "State of touching"
+ },
+ {
+   "Word": "Contemporary",
+   "Part_of_Speech": "adj",
+   "Definition": "Living or occurring at the same time"
+ },
+ {
+   "Word": "Context",
+   "Part_of_Speech": "n",
+   "Definition": "Circumstances forming a setting"
+ },
+ {
+   "Word": "Contract",
+   "Part_of_Speech": "n",
+   "Definition": "Binding agreement"
+ },
+ {
+   "Word": "Contradict",
+   "Part_of_Speech": "v",
+   "Definition": "Assert the opposite"
+ },
+ {
+   "Word": "Contrary",
+   "Part_of_Speech": "adj",
+   "Definition": "Opposite in nature"
+ },
+ {
+   "Word": "Contrast",
+   "Part_of_Speech": "v",
+   "Definition": "Difference between things"
+ },
+ {
+   "Word": "Contribute",
+   "Part_of_Speech": "v",
+   "Definition": "Give for a common purpose"
+ },
+ {
+   "Word": "Controversy",
+   "Part_of_Speech": "n",
+   "Definition": "Disagreement"
+ },
+ {
+   "Word": "Convene",
+   "Part_of_Speech": "v",
+   "Definition": "Come together for a meeting"
+ },
+ {
+   "Word": "Converge",
+   "Part_of_Speech": "v",
+   "Definition": "Come together from different directions"
+ },
+ {
+   "Word": "Convert",
+   "Part_of_Speech": "v",
+   "Definition": "Change in form"
+ },
+ {
+   "Word": "Convince",
+   "Part_of_Speech": "v",
+   "Definition": "Persuade"
+ },
+ {
+   "Word": "Cooperate",
+   "Part_of_Speech": "v",
+   "Definition": "Work together"
+ },
+ {
+   "Word": "Coordinate",
+   "Part_of_Speech": "v",
+   "Definition": "Bring together"
+ },
+ {
+   "Word": "Core",
+   "Part_of_Speech": "n",
+   "Definition": "Central part"
+ },
+ {
+   "Word": "Corporate",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to a large company"
+ },
+ {
+   "Word": "Correspond",
+   "Part_of_Speech": "v",
+   "Definition": "Have a close similarity"
+ },
+ {
+   "Word": "Couple",
+   "Part_of_Speech": "n",
+   "Definition": "Two people or things"
+ },
+ {
+   "Word": "Create",
+   "Part_of_Speech": "v",
+   "Definition": "Bring into existence"
+ },
+ {
+   "Word": "Credit",
+   "Part_of_Speech": "n",
+   "Definition": "Trust or reputation"
+ },
+ {
+   "Word": "Criteria",
+   "Part_of_Speech": "n",
+   "Definition": "Principle or standard"
+ },
+ {
+   "Word": "Crucial",
+   "Part_of_Speech": "adj",
+   "Definition": "Decisive or critical"
+ },
+ {
+   "Word": "Culture",
+   "Part_of_Speech": "n",
+   "Definition": "Arts and manifestations of human achievement"
+ },
+ {
+   "Word": "Currency",
+   "Part_of_Speech": "n",
+   "Definition": "System of money"
+ },
+ {
+   "Word": "Current",
+   "Part_of_Speech": "adj",
+   "Definition": "Belonging to the present"
+ },
+ {
+   "Word": "Cycle",
+   "Part_of_Speech": "n",
+   "Definition": "Series of events that repeat"
+ },
+ {
+   "Word": "Data",
+   "Part_of_Speech": "n",
+   "Definition": "Facts and statistics"
+ },
+ {
+   "Word": "Debate",
+   "Part_of_Speech": "n",
+   "Definition": "Formal discussion"
+ },
+ {
+   "Word": "Decade",
+   "Part_of_Speech": "n",
+   "Definition": "Ten years"
+ },
+ {
+   "Word": "Decline",
+   "Part_of_Speech": "v",
+   "Definition": "Become smaller or fewer"
+ },
+ {
+   "Word": "Dedicate",
+   "Part_of_Speech": "v",
+   "Definition": "Devote time or effort"
+ },
+ {
+   "Word": "Deduce",
+   "Part_of_Speech": "v",
+   "Definition": "Arrive at by reasoning"
+ },
+ {
+   "Word": "Default",
+   "Part_of_Speech": "n",
+   "Definition": "Failure to fulfill an obligation"
+ },
+ {
+   "Word": "Defect",
+   "Part_of_Speech": "n",
+   "Definition": "Shortcoming"
+ },
+ {
+   "Word": "Define",
+   "Part_of_Speech": "v",
+   "Definition": "State the exact meaning"
+ },
+ {
+   "Word": "Definite",
+   "Part_of_Speech": "adj",
+   "Definition": "Clearly stated"
+ },
+ {
+   "Word": "Delegate",
+   "Part_of_Speech": "n",
+   "Definition": "Person sent to represent others"
+ },
+ {
+   "Word": "Deny",
+   "Part_of_Speech": "v",
+   "Definition": "State that one refuses to admit"
+ },
+ {
+   "Word": "Depress",
+   "Part_of_Speech": "v",
+   "Definition": "Reduce the level of"
+ },
+ {
+   "Word": "Derive",
+   "Part_of_Speech": "v",
+   "Definition": "Obtain from a source"
+ },
+ {
+   "Word": "Design",
+   "Part_of_Speech": "n",
+   "Definition": "Plan or drawing"
+ },
+ {
+   "Word": "Despite",
+   "Part_of_Speech": "prep",
+   "Definition": "Without being affected by"
+ },
+ {
+   "Word": "Detect",
+   "Part_of_Speech": "v",
+   "Definition": "Discover the presence of"
+ },
+ {
+   "Word": "Deviate",
+   "Part_of_Speech": "v",
+   "Definition": "Depart from an established course"
+ },
+ {
+   "Word": "Device",
+   "Part_of_Speech": "n",
+   "Definition": "Thing made for a particular purpose"
+ },
+ {
+   "Word": "Devote",
+   "Part_of_Speech": "v",
+   "Definition": "Give time or effort to"
+ },
+ {
+   "Word": "Differentiate",
+   "Part_of_Speech": "v",
+   "Definition": "Recognize what makes something different"
+ },
+ {
+   "Word": "Dimension",
+   "Part_of_Speech": "n",
+   "Definition": "Measurable extent"
+ },
+ {
+   "Word": "Diminish",
+   "Part_of_Speech": "v",
+   "Definition": "Make or become less"
+ },
+ {
+   "Word": "Discrete",
+   "Part_of_Speech": "adj",
+   "Definition": "Individually separate"
+ },
+ {
+   "Word": "Discriminate",
+   "Part_of_Speech": "v",
+   "Definition": "Make an unjust distinction"
+ },
+ {
+   "Word": "Displace",
+   "Part_of_Speech": "v",
+   "Definition": "Take over the place of"
+ },
+ {
+   "Word": "Display",
+   "Part_of_Speech": "v",
+   "Definition": "Put in a prominent place"
+ },
+ {
+   "Word": "Dispose",
+   "Part_of_Speech": "v",
+   "Definition": "Get rid of"
+ },
+ {
+   "Word": "Distinct",
+   "Part_of_Speech": "adj",
+   "Definition": "Recognizably different"
+ },
+ {
+   "Word": "Distort",
+   "Part_of_Speech": "v",
+   "Definition": "Pull out of shape"
+ },
+ {
+   "Word": "Distribute",
+   "Part_of_Speech": "v",
+   "Definition": "Give shares of"
+ },
+ {
+   "Word": "Diverse",
+   "Part_of_Speech": "adj",
+   "Definition": "Showing a great deal of variety"
+ },
+ {
+   "Word": "Document",
+   "Part_of_Speech": "n",
+   "Definition": "Piece of written matter"
+ },
+ {
+   "Word": "Domain",
+   "Part_of_Speech": "n",
+   "Definition": "Area of territory or knowledge"
+ },
+ {
+   "Word": "Domestic",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to the home"
+ },
+ {
+   "Word": "Dominate",
+   "Part_of_Speech": "v",
+   "Definition": "Have a commanding influence on"
+ },
+ {
+   "Word": "Draft",
+   "Part_of_Speech": "n",
+   "Definition": "Preliminary version"
+ },
+ {
+   "Word": "Drama",
+   "Part_of_Speech": "n",
+   "Definition": "Exciting or emotional event"
+ },
+ {
+   "Word": "Duration",
+   "Part_of_Speech": "n",
+   "Definition": "Time something continues"
+ },
+ {
+   "Word": "Dynamic",
+   "Part_of_Speech": "adj",
+   "Definition": "Constant change or activity"
+ },
+ {
+   "Word": "Economy",
+   "Part_of_Speech": "n",
+   "Definition": "Wealth and resources"
+ },
+ {
+   "Word": "Edit",
+   "Part_of_Speech": "v",
+   "Definition": "Prepare written material"
+ },
+ {
+   "Word": "Element",
+   "Part_of_Speech": "n",
+   "Definition": "Part or aspect"
+ },
+ {
+   "Word": "Eliminate",
+   "Part_of_Speech": "v",
+   "Definition": "Completely remove"
+ },
+ {
+   "Word": "Emerge",
+   "Part_of_Speech": "v",
+   "Definition": "Become apparent"
+ },
+ {
+   "Word": "Emphasis",
+   "Part_of_Speech": "n",
+   "Definition": "Special importance"
+ },
+ {
+   "Word": "Empirical",
+   "Part_of_Speech": "adj",
+   "Definition": "Based on observation"
+ },
+ {
+   "Word": "Enable",
+   "Part_of_Speech": "v",
+   "Definition": "Give the authority or means"
+ },
+ {
+   "Word": "Encounter",
+   "Part_of_Speech": "v",
+   "Definition": "Unexpectedly be faced with"
+ },
+ {
+   "Word": "Energy",
+   "Part_of_Speech": "n",
+   "Definition": "Power derived from resources"
+ },
+ {
+   "Word": "Enforce",
+   "Part_of_Speech": "v",
+   "Definition": "Compel observance of a law"
+ },
+ {
+   "Word": "Enhance",
+   "Part_of_Speech": "v",
+   "Definition": "Intensify or increase"
+ },
+ {
+   "Word": "Enormous",
+   "Part_of_Speech": "adj",
+   "Definition": "Very large"
+ },
+ {
+   "Word": "Ensure",
+   "Part_of_Speech": "v",
+   "Definition": "Make certain"
+ },
+ {
+   "Word": "Entity",
+   "Part_of_Speech": "n",
+   "Definition": "Thing with distinct existence"
+ },
+ {
+   "Word": "Environment",
+   "Part_of_Speech": "n",
+   "Definition": "Surroundings"
+ },
+ {
+   "Word": "Equate",
+   "Part_of_Speech": "v",
+   "Definition": "Consider to be the same"
+ },
+ {
+   "Word": "Equip",
+   "Part_of_Speech": "v",
+   "Definition": "Supply with necessary items"
+ },
+ {
+   "Word": "Equivalent",
+   "Part_of_Speech": "adj",
+   "Definition": "Equal in value"
+ },
+ {
+   "Word": "Erode",
+   "Part_of_Speech": "v",
+   "Definition": "Gradually wear away"
+ },
+ {
+   "Word": "Error",
+   "Part_of_Speech": "n",
+   "Definition": "Mistake"
+ },
+ {
+   "Word": "Establish",
+   "Part_of_Speech": "v",
+   "Definition": "Set up on a firm basis"
+ },
+ {
+   "Word": "Estate",
+   "Part_of_Speech": "n",
+   "Definition": "Extensive area of land"
+ },
+ {
+   "Word": "Estimate",
+   "Part_of_Speech": "v",
+   "Definition": "Roughly calculate"
+ },
+ {
+   "Word": "Ethic",
+   "Part_of_Speech": "n",
+   "Definition": "Moral principles"
+ },
+ {
+   "Word": "Ethnic",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to a population group"
+ },
+ {
+   "Word": "Evaluate",
+   "Part_of_Speech": "v",
+   "Definition": "Assess the value of"
+ },
+ {
+   "Word": "Eventual",
+   "Part_of_Speech": "adj",
+   "Definition": "Occurring at the end of a process"
+ },
+ {
+   "Word": "Evident",
+   "Part_of_Speech": "adj",
+   "Definition": "Plain or obvious"
+ },
+ {
+   "Word": "Evolve",
+   "Part_of_Speech": "v",
+   "Definition": "Develop gradually"
+ },
+ {
+   "Word": "Exceed",
+   "Part_of_Speech": "v",
+   "Definition": "Be greater in number"
+ },
+ {
+   "Word": "Exclude",
+   "Part_of_Speech": "v",
+   "Definition": "Deny access to"
+ },
+ {
+   "Word": "Exhibit",
+   "Part_of_Speech": "v",
+   "Definition": "Manifest clearly"
+ },
+ {
+   "Word": "Exist",
+   "Part_of_Speech": "v",
+   "Definition": "Have objective reality"
+ },
+ {
+   "Word": "Expand",
+   "Part_of_Speech": "v",
+   "Definition": "Become larger"
+ },
+ {
+   "Word": "Expert",
+   "Part_of_Speech": "n",
+   "Definition": "Person with high level of skill"
+ },
+ {
+   "Word": "Explicit",
+   "Part_of_Speech": "adj",
+   "Definition": "Stated clearly"
+ },
+ {
+   "Word": "Exploit",
+   "Part_of_Speech": "v",
+   "Definition": "Make full use of"
+ },
+ {
+   "Word": "Export",
+   "Part_of_Speech": "v",
+   "Definition": "Send goods to another country"
+ },
+ {
+   "Word": "Expose",
+   "Part_of_Speech": "v",
+   "Definition": "Make visible"
+ },
+ {
+   "Word": "External",
+   "Part_of_Speech": "adj",
+   "Definition": "Belonging to the outside"
+ },
+ {
+   "Word": "Extract",
+   "Part_of_Speech": "v",
+   "Definition": "Remove or take out"
+ },
+ {
+   "Word": "Facilitate",
+   "Part_of_Speech": "v",
+   "Definition": "Make an action easier"
+ },
+ {
+   "Word": "Factor",
+   "Part_of_Speech": "n",
+   "Definition": "Circumstance contributing to a result"
+ },
+ {
+   "Word": "Feature",
+   "Part_of_Speech": "n",
+   "Definition": "Distinctive attribute"
+ },
+ {
+   "Word": "Federal",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to a central government"
+ },
+ {
+   "Word": "Fee",
+   "Part_of_Speech": "n",
+   "Definition": "Payment for service"
+ },
+ {
+   "Word": "File",
+   "Part_of_Speech": "n",
+   "Definition": "Folder or box for papers"
+ },
+ {
+   "Word": "Final",
+   "Part_of_Speech": "adj",
+   "Definition": "Coming at the end"
+ },
+ {
+   "Word": "Finance",
+   "Part_of_Speech": "n",
+   "Definition": "Management of money"
+ },
+ {
+   "Word": "Finite",
+   "Part_of_Speech": "adj",
+   "Definition": "Having limits"
+ },
+ {
+   "Word": "Flexible",
+   "Part_of_Speech": "adj",
+   "Definition": "Capable of bending"
+ },
+ {
+   "Word": "Fluctuate",
+   "Part_of_Speech": "v",
+   "Definition": "Rise and fall irregularly"
+ },
+ {
+   "Word": "Focus",
+   "Part_of_Speech": "v",
+   "Definition": "Pay particular attention to"
+ },
+ {
+   "Word": "Format",
+   "Part_of_Speech": "n",
+   "Definition": "Arrangement of data"
+ },
+ {
+   "Word": "Formula",
+   "Part_of_Speech": "n",
+   "Definition": "Mathematical relationship"
+ },
+ {
+   "Word": "Forthcoming",
+   "Part_of_Speech": "adj",
+   "Definition": "Planned or about to happen"
+ },
+ {
+   "Word": "Found",
+   "Part_of_Speech": "v",
+   "Definition": "Establish or originate"
+ },
+ {
+   "Word": "Frame",
+   "Part_of_Speech": "n",
+   "Definition": "Structure"
+ },
+ {
+   "Word": "Function",
+   "Part_of_Speech": "n",
+   "Definition": "Activity natural to a person or thing"
+ },
+ {
+   "Word": "Fundamental",
+   "Part_of_Speech": "adj",
+   "Definition": "Central or primary"
+ },
+ {
+   "Word": "Fund",
+   "Part_of_Speech": "n",
+   "Definition": "Sum of money"
+ },
+ {
+   "Word": "Furthermore",
+   "Part_of_Speech": "adv",
+   "Definition": "In addition"
+ },
+ {
+   "Word": "Gender",
+   "Part_of_Speech": "n",
+   "Definition": "State of being male or female"
+ },
+ {
+   "Word": "Generate",
+   "Part_of_Speech": "v",
+   "Definition": "Produce or create"
+ },
+ {
+   "Word": "Generic",
+   "Part_of_Speech": "adj",
+   "Definition": "General class of things"
+ },
+ {
+   "Word": "Global",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to the whole world"
+ },
+ {
+   "Word": "Goal",
+   "Part_of_Speech": "n",
+   "Definition": "Aim or desired result"
+ },
+ {
+   "Word": "Grade",
+   "Part_of_Speech": "n",
+   "Definition": "Rank or level"
+ },
+ {
+   "Word": "Grant",
+   "Part_of_Speech": "v",
+   "Definition": "Agree to give"
+ },
+ {
+   "Word": "Guarantee",
+   "Part_of_Speech": "v",
+   "Definition": "Provide a formal assurance"
+ },
+ {
+   "Word": "Guideline",
+   "Part_of_Speech": "n",
+   "Definition": "Rule or principle"
+ },
+ {
+   "Word": "Hence",
+   "Part_of_Speech": "adv",
+   "Definition": "As a consequence"
+ },
+ {
+   "Word": "Hierarchy",
+   "Part_of_Speech": "n",
+   "Definition": "System of ranking"
+ },
+ {
+   "Word": "Highlight",
+   "Part_of_Speech": "v",
+   "Definition": "Make conspicuous"
+ },
+ {
+   "Word": "Hypothesis",
+   "Part_of_Speech": "n",
+   "Definition": "Proposed explanation"
+ },
+ {
+   "Word": "Identify",
+   "Part_of_Speech": "v",
+   "Definition": "Establish or indicate who or what"
+ },
+ {
+   "Word": "Ideology",
+   "Part_of_Speech": "n",
+   "Definition": "System of ideas"
+ },
+ {
+   "Word": "Ignore",
+   "Part_of_Speech": "v",
+   "Definition": "Refuse to take notice of"
+ },
+ {
+   "Word": "Illustrate",
+   "Part_of_Speech": "v",
+   "Definition": "Explain or make clear"
+ },
+ {
+   "Word": "Image",
+   "Part_of_Speech": "n",
+   "Definition": "Representation of the external form"
+ },
+ {
+   "Word": "Immigrate",
+   "Part_of_Speech": "v",
+   "Definition": "Come to live permanently in a foreign country"
+ },
+ {
+   "Word": "Implement",
+   "Part_of_Speech": "v",
+   "Definition": "Put a decision into effect"
+ },
+ {
+   "Word": "Imply",
+   "Part_of_Speech": "v",
+   "Definition": "Suggest as a truth"
+ },
+ {
+   "Word": "Impose",
+   "Part_of_Speech": "v",
+   "Definition": "Force to be accepted"
+ },
+ {
+   "Word": "Incentive",
+   "Part_of_Speech": "n",
+   "Definition": "Thing that motivates"
+ },
+ {
+   "Word": "Incidence",
+   "Part_of_Speech": "n",
+   "Definition": "Occurrence of an event"
+ },
+ {
+   "Word": "Incline",
+   "Part_of_Speech": "v",
+   "Definition": "Feel willing or disposed to"
+ },
+ {
+   "Word": "Income",
+   "Part_of_Speech": "n",
+   "Definition": "Money received"
+ },
+ {
+   "Word": "Incorporate",
+   "Part_of_Speech": "v",
+   "Definition": "Take in or contain"
+ },
+ {
+   "Word": "Index",
+   "Part_of_Speech": "n",
+   "Definition": "Alphabetical list of names"
+ },
+ {
+   "Word": "Indicate",
+   "Part_of_Speech": "v",
+   "Definition": "Point out or show"
+ },
+ {
+   "Word": "Individual",
+   "Part_of_Speech": "n",
+   "Definition": "Single human being"
+ },
+ {
+   "Word": "Induce",
+   "Part_of_Speech": "v",
+   "Definition": "Bring about"
+ },
+ {
+   "Word": "Inevitably",
+   "Part_of_Speech": "adv",
+   "Definition": "As is certain to happen"
+ },
+ {
+   "Word": "Infer",
+   "Part_of_Speech": "v",
+   "Definition": "Deduce from evidence"
+ },
+ {
+   "Word": "Infrastructure",
+   "Part_of_Speech": "n",
+   "Definition": "Basic physical structures"
+ },
+ {
+   "Word": "Inherent",
+   "Part_of_Speech": "adj",
+   "Definition": "Existing in something as a permanent attribute"
+ },
+ {
+   "Word": "Inhibit",
+   "Part_of_Speech": "v",
+   "Definition": "Hinder or restrain"
+ },
+ {
+   "Word": "Initial",
+   "Part_of_Speech": "adj",
+   "Definition": "Existing or occurring at the beginning"
+ },
+ {
+   "Word": "Initiate",
+   "Part_of_Speech": "v",
+   "Definition": "Cause a process to begin"
+ },
+ {
+   "Word": "Inject",
+   "Part_of_Speech": "v",
+   "Definition": "Introduce a liquid"
+ },
+ {
+   "Word": "Injure",
+   "Part_of_Speech": "v",
+   "Definition": "Do physical harm to"
+ },
+ {
+   "Word": "Innovate",
+   "Part_of_Speech": "v",
+   "Definition": "Make changes in something established"
+ },
+ {
+   "Word": "Input",
+   "Part_of_Speech": "n",
+   "Definition": "Data fed into a computer"
+ },
+ {
+   "Word": "Insert",
+   "Part_of_Speech": "v",
+   "Definition": "Place or fit inside"
+ },
+ {
+   "Word": "Insight",
+   "Part_of_Speech": "n",
+   "Definition": "Deep understanding"
+ },
+ {
+   "Word": "Insist",
+   "Part_of_Speech": "v",
+   "Definition": "Demand something forcefully"
+ },
+ {
+   "Word": "Install",
+   "Part_of_Speech": "v",
+   "Definition": "Place in position for use"
+ },
+ {
+   "Word": "Instance",
+   "Part_of_Speech": "n",
+   "Definition": "Example or single occurrence"
+ },
+ {
+   "Word": "Institute",
+   "Part_of_Speech": "n",
+   "Definition": "Organization for a specific purpose"
+ },
+ {
+   "Word": "Instruct",
+   "Part_of_Speech": "v",
+   "Definition": "Teach or command"
+ },
+ {
+   "Word": "Instrument",
+   "Part_of_Speech": "n",
+   "Definition": "Tool or implement"
+ },
+ {
+   "Word": "Integrate",
+   "Part_of_Speech": "v",
+   "Definition": "Combine with another"
+ },
+ {
+   "Word": "Integrity",
+   "Part_of_Speech": "n",
+   "Definition": "Quality of being honest"
+ },
+ {
+   "Word": "Intelligent",
+   "Part_of_Speech": "adj",
+   "Definition": "Having good understanding"
+ },
+ {
+   "Word": "Intense",
+   "Part_of_Speech": "adj",
+   "Definition": "Having force or degree"
+ },
+ {
+   "Word": "Interact",
+   "Part_of_Speech": "v",
+   "Definition": "Act in such a way as to have an effect"
+ },
+ {
+   "Word": "Intermediate",
+   "Part_of_Speech": "adj",
+   "Definition": "Coming between two things"
+ },
+ {
+   "Word": "Internal",
+   "Part_of_Speech": "adj",
+   "Definition": "Inside"
+ },
+ {
+   "Word": "Interpret",
+   "Part_of_Speech": "v",
+   "Definition": "Explain the meaning of"
+ },
+ {
+   "Word": "Interval",
+   "Part_of_Speech": "n",
+   "Definition": "Gap between two points"
+ },
+ {
+   "Word": "Intervene",
+   "Part_of_Speech": "v",
+   "Definition": "Come between so as to prevent"
+ },
+ {
+   "Word": "Intrinsic",
+   "Part_of_Speech": "adj",
+   "Definition": "Belonging naturally"
+ },
+ {
+   "Word": "Invest",
+   "Part_of_Speech": "v",
+   "Definition": "Put money into something"
+ },
+ {
+   "Word": "Invoke",
+   "Part_of_Speech": "v",
+   "Definition": "Call upon"
+ },
+ {
+   "Word": "Involve",
+   "Part_of_Speech": "v",
+   "Definition": "Have as a necessary part"
+ },
+ {
+   "Word": "Isolate",
+   "Part_of_Speech": "v",
+   "Definition": "Identify as separate"
+ },
+ {
+   "Word": "Issue",
+   "Part_of_Speech": "n",
+   "Definition": "Important topic"
+ },
+ {
+   "Word": "Item",
+   "Part_of_Speech": "n",
+   "Definition": "Individual article"
+ },
+ {
+   "Word": "Job",
+   "Part_of_Speech": "n",
+   "Definition": "Paid position of regular employment"
+ },
+ {
+   "Word": "Journal",
+   "Part_of_Speech": "n",
+   "Definition": "Newspaper or magazine"
+ },
+ {
+   "Word": "Justify",
+   "Part_of_Speech": "v",
+   "Definition": "Show to be right"
+ },
+ {
+   "Word": "Label",
+   "Part_of_Speech": "n",
+   "Definition": "Small piece of paper giving information"
+ },
+ {
+   "Word": "Labor",
+   "Part_of_Speech": "n",
+   "Definition": "Work"
+ },
+ {
+   "Word": "Layer",
+   "Part_of_Speech": "n",
+   "Definition": "Sheet or thickness of material"
+ },
+ {
+   "Word": "Lecture",
+   "Part_of_Speech": "n",
+   "Definition": "Educational talk"
+ },
+ {
+   "Word": "Legal",
+   "Part_of_Speech": "adj",
+   "Definition": "Appointed by the law"
+ },
+ {
+   "Word": "Legislate",
+   "Part_of_Speech": "v",
+   "Definition": "Make laws"
+ },
+ {
+   "Word": "Levy",
+   "Part_of_Speech": "n",
+   "Definition": "Tax or fee"
+ },
+ {
+   "Word": "Liberal",
+   "Part_of_Speech": "adj",
+   "Definition": "Willing to respect behavior"
+ },
+ {
+   "Word": "License",
+   "Part_of_Speech": "n",
+   "Definition": "Permit from an authority"
+ },
+ {
+   "Word": "Likelihood",
+   "Part_of_Speech": "n",
+   "Definition": "Probability"
+ },
+ {
+   "Word": "Link",
+   "Part_of_Speech": "n",
+   "Definition": "Relationship or connection"
+ },
+ {
+   "Word": "Locate",
+   "Part_of_Speech": "v",
+   "Definition": "Discover the place of"
+ },
+ {
+   "Word": "Logic",
+   "Part_of_Speech": "n",
+   "Definition": "Reasoning conducted according to strict principles"
+ },
+ {
+   "Word": "Maintain",
+   "Part_of_Speech": "v",
+   "Definition": "Cause to continue"
+ },
+ {
+   "Word": "Major",
+   "Part_of_Speech": "adj",
+   "Definition": "Important or significant"
+ },
+ {
+   "Word": "Manipulate",
+   "Part_of_Speech": "v",
+   "Definition": "Handle or control"
+ },
+ {
+   "Word": "Manual",
+   "Part_of_Speech": "adj",
+   "Definition": "Done with hands"
+ },
+ {
+   "Word": "Margin",
+   "Part_of_Speech": "n",
+   "Definition": "Edge or border"
+ },
+ {
+   "Word": "Mature",
+   "Part_of_Speech": "adj",
+   "Definition": "Fully developed"
+ },
+ {
+   "Word": "Maximize",
+   "Part_of_Speech": "v",
+   "Definition": "Make as large as possible"
+ },
+ {
+   "Word": "Mechanism",
+   "Part_of_Speech": "n",
+   "Definition": "System of parts working together"
+ },
+ {
+   "Word": "Media",
+   "Part_of_Speech": "n",
+   "Definition": "Main means of mass communication"
+ },
+ {
+   "Word": "Mediate",
+   "Part_of_Speech": "v",
+   "Definition": "Intervene between parties"
+ },
+ {
+   "Word": "Medical",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to medicine"
+ },
+ {
+   "Word": "Medium",
+   "Part_of_Speech": "n",
+   "Definition": "Means by which something is communicated"
+ },
+ {
+   "Word": "Mental",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to the mind"
+ },
+ {
+   "Word": "Method",
+   "Part_of_Speech": "n",
+   "Definition": "Way of doing something"
+ },
+ {
+   "Word": "Migrate",
+   "Part_of_Speech": "v",
+   "Definition": "Move from one region to another"
+ },
+ {
+   "Word": "Military",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to armed forces"
+ },
+ {
+   "Word": "Minimal",
+   "Part_of_Speech": "adj",
+   "Definition": "Smallest amount"
+ },
+ {
+   "Word": "Minimize",
+   "Part_of_Speech": "v",
+   "Definition": "Reduce to the smallest possible amount"
+ },
+ {
+   "Word": "Minimum",
+   "Part_of_Speech": "n",
+   "Definition": "Least possible amount"
+ },
+ {
+   "Word": "Ministry",
+   "Part_of_Speech": "n",
+   "Definition": "Government department"
+ },
+ {
+   "Word": "Minor",
+   "Part_of_Speech": "adj",
+   "Definition": "Lesser in importance"
+ },
+ {
+   "Word": "Mode",
+   "Part_of_Speech": "n",
+   "Definition": "Way in which something happens"
+ },
+ {
+   "Word": "Modify",
+   "Part_of_Speech": "v",
+   "Definition": "Make partial changes"
+ },
+ {
+   "Word": "Monitor",
+   "Part_of_Speech": "v",
+   "Definition": "Observe and check"
+ },
+ {
+   "Word": "Motivate",
+   "Part_of_Speech": "v",
+   "Definition": "Provide with a motive"
+ },
+ {
+   "Word": "Mutual",
+   "Part_of_Speech": "adj",
+   "Definition": "Experienced by each of two parties"
+ },
+ {
+   "Word": "Negate",
+   "Part_of_Speech": "v",
+   "Definition": "Nullify"
+ },
+ {
+   "Word": "Network",
+   "Part_of_Speech": "n",
+   "Definition": "Group of interconnected people"
+ },
+ {
+   "Word": "Neutral",
+   "Part_of_Speech": "adj",
+   "Definition": "Not helping either side"
+ },
+ {
+   "Word": "Nevertheless",
+   "Part_of_Speech": "adv",
+   "Definition": "In spite of that"
+ },
+ {
+   "Word": "Non-conformist",
+   "Part_of_Speech": "n",
+   "Definition": "Person who does not conform"
+ },
+ {
+   "Word": "Norm",
+   "Part_of_Speech": "n",
+   "Definition": "Something that is usual"
+ },
+ {
+   "Word": "Normal",
+   "Part_of_Speech": "adj",
+   "Definition": "Conforming to a standard"
+ },
+ {
+   "Word": "Notion",
+   "Part_of_Speech": "n",
+   "Definition": "Conception or belief"
+ },
+ {
+   "Word": "Notify",
+   "Part_of_Speech": "v",
+   "Definition": "Inform"
+ },
+ {
+   "Word": "Objective",
+   "Part_of_Speech": "n",
+   "Definition": "Goal"
+ },
+ {
+   "Word": "Obtain",
+   "Part_of_Speech": "v",
+   "Definition": "Get"
+ },
+ {
+   "Word": "Obvious",
+   "Part_of_Speech": "adj",
+   "Definition": "Easily perceived"
+ },
+ {
+   "Word": "Occupy",
+   "Part_of_Speech": "v",
+   "Definition": "Reside or fill space"
+ },
+ {
+   "Word": "Occur",
+   "Part_of_Speech": "v",
+   "Definition": "Happen"
+ },
+ {
+   "Word": "Odd",
+   "Part_of_Speech": "adj",
+   "Definition": "Strange"
+ },
+ {
+   "Word": "Offspring",
+   "Part_of_Speech": "n",
+   "Definition": "Children"
+ },
+ {
+   "Word": "Offset",
+   "Part_of_Speech": "v",
+   "Definition": "Counteract"
+ },
+ {
+   "Word": "Often",
+   "Part_of_Speech": "adv",
+   "Definition": "Frequently"
+ },
+ {
+   "Word": "Ongoing",
+   "Part_of_Speech": "adj",
+   "Definition": "Continuing"
+ },
+ {
+   "Word": "Option",
+   "Part_of_Speech": "n",
+   "Definition": "Choice"
+ },
+ {
+   "Word": "Oral",
+   "Part_of_Speech": "adj",
+   "Definition": "Spoken"
+ },
+ {
+   "Word": "Orient",
+   "Part_of_Speech": "v",
+   "Definition": "Align"
+ },
+ {
+   "Word": "Outcome",
+   "Part_of_Speech": "n",
+   "Definition": "Result"
+ },
+ {
+   "Word": "Output",
+   "Part_of_Speech": "n",
+   "Definition": "Amount produced"
+ },
+ {
+   "Word": "Overall",
+   "Part_of_Speech": "adj",
+   "Definition": "Taking everything into account"
+ },
+ {
+   "Word": "Overlap",
+   "Part_of_Speech": "v",
+   "Definition": "Extend over part of"
+ },
+ {
+   "Word": "Oversee",
+   "Part_of_Speech": "v",
+   "Definition": "Supervise"
+ },
+ {
+   "Word": "Own",
+   "Part_of_Speech": "v",
+   "Definition": "Possess"
+ },
+ {
+   "Word": "Panel",
+   "Part_of_Speech": "n",
+   "Definition": "Small group of people"
+ },
+ {
+   "Word": "Paradigm",
+   "Part_of_Speech": "n",
+   "Definition": "Typical example"
+ },
+ {
+   "Word": "Paragraph",
+   "Part_of_Speech": "n",
+   "Definition": "Section of text"
+ },
+ {
+   "Word": "Parallel",
+   "Part_of_Speech": "adj",
+   "Definition": "Side by side"
+ },
+ {
+   "Word": "Parameter",
+   "Part_of_Speech": "n",
+   "Definition": "Limit or boundary"
+ },
+ {
+   "Word": "Participate",
+   "Part_of_Speech": "v",
+   "Definition": "Take part"
+ },
+ {
+   "Word": "Partner",
+   "Part_of_Speech": "n",
+   "Definition": "Person who takes part"
+ },
+ {
+   "Word": "Passive",
+   "Part_of_Speech": "adj",
+   "Definition": "Accepting what happens"
+ },
+ {
+   "Word": "Perceive",
+   "Part_of_Speech": "v",
+   "Definition": "Become aware of"
+ },
+ {
+   "Word": "Percent",
+   "Part_of_Speech": "n",
+   "Definition": "Part of a hundred"
+ },
+ {
+   "Word": "Period",
+   "Part_of_Speech": "n",
+   "Definition": "Length of time"
+ },
+ {
+   "Word": "Persist",
+   "Part_of_Speech": "v",
+   "Definition": "Continue firmly"
+ },
+ {
+   "Word": "Perspective",
+   "Part_of_Speech": "n",
+   "Definition": "Point of view"
+ },
+ {
+   "Word": "Phase",
+   "Part_of_Speech": "n",
+   "Definition": "Distinct period"
+ },
+ {
+   "Word": "Phenomenon",
+   "Part_of_Speech": "n",
+   "Definition": "Observable event"
+ },
+ {
+   "Word": "Philosophy",
+   "Part_of_Speech": "n",
+   "Definition": "Study of fundamental nature of knowledge"
+ },
+ {
+   "Word": "Physical",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to the body"
+ },
+ {
+   "Word": "Plus",
+   "Part_of_Speech": "prep",
+   "Definition": "With the addition of"
+ },
+ {
+   "Word": "Policy",
+   "Part_of_Speech": "n",
+   "Definition": "Course of action"
+ },
+ {
+   "Word": "Portion",
+   "Part_of_Speech": "n",
+   "Definition": "Part of a whole"
+ },
+ {
+   "Word": "Pose",
+   "Part_of_Speech": "v",
+   "Definition": "Present a problem"
+ },
+ {
+   "Word": "Positive",
+   "Part_of_Speech": "adj",
+   "Definition": "Constructive"
+ },
+ {
+   "Word": "Potential",
+   "Part_of_Speech": "adj",
+   "Definition": "Capable of becoming"
+ },
+ {
+   "Word": "Practitioner",
+   "Part_of_Speech": "n",
+   "Definition": "Person actively engaged in an art"
+ },
+ {
+   "Word": "Precede",
+   "Part_of_Speech": "v",
+   "Definition": "Come before"
+ },
+ {
+   "Word": "Precise",
+   "Part_of_Speech": "adj",
+   "Definition": "Exact"
+ },
+ {
+   "Word": "Predict",
+   "Part_of_Speech": "v",
+   "Definition": "Say that a specified event will happen"
+ },
+ {
+   "Word": "Predominant",
+   "Part_of_Speech": "adj",
+   "Definition": "Present as the strongest"
+ },
+ {
+   "Word": "Pre-eminent",
+   "Part_of_Speech": "adj",
+   "Definition": "Surpassing all others"
+ },
+ {
+   "Word": "Premier",
+   "Part_of_Speech": "adj",
+   "Definition": "First in importance"
+ },
+ {
+   "Word": "Prescribe",
+   "Part_of_Speech": "v",
+   "Definition": "Recommend"
+ },
+ {
+   "Word": "Presence",
+   "Part_of_Speech": "n",
+   "Definition": "State of being present"
+ },
+ {
+   "Word": "Preserve",
+   "Part_of_Speech": "v",
+   "Definition": "Maintain"
+ },
+ {
+   "Word": "Preside",
+   "Part_of_Speech": "v",
+   "Definition": "Be in the position of authority"
+ },
+ {
+   "Word": "Primary",
+   "Part_of_Speech": "adj",
+   "Definition": "Main"
+ },
+ {
+   "Word": "Principal",
+   "Part_of_Speech": "adj",
+   "Definition": "First in importance"
+ },
+ {
+   "Word": "Principle",
+   "Part_of_Speech": "n",
+   "Definition": "Truth or proposition"
+ },
+ {
+   "Word": "Prior",
+   "Part_of_Speech": "adj",
+   "Definition": "Existing before"
+ },
+ {
+   "Word": "Priority",
+   "Part_of_Speech": "n",
+   "Definition": "Fact of being more important"
+ },
+ {
+   "Word": "Proceed",
+   "Part_of_Speech": "v",
+   "Definition": "Begin or continue"
+ },
+ {
+   "Word": "Process",
+   "Part_of_Speech": "n",
+   "Definition": "Series of actions"
+ },
+ {
+   "Word": "Professional",
+   "Part_of_Speech": "adj",
+   "Definition": "Engaged in a specified activity as a main paid occupation"
+ },
+ {
+   "Word": "Prohibit",
+   "Part_of_Speech": "v",
+   "Definition": "Formally forbid"
+ },
+ {
+   "Word": "Project",
+   "Part_of_Speech": "n",
+   "Definition": "Planned piece of work"
+ },
+ {
+   "Word": "Promote",
+   "Part_of_Speech": "v",
+   "Definition": "Support or actively encourage"
+ },
+ {
+   "Word": "Proportion",
+   "Part_of_Speech": "n",
+   "Definition": "Part or share"
+ },
+ {
+   "Word": "Prospect",
+   "Part_of_Speech": "n",
+   "Definition": "Possibility of future event"
+ },
+ {
+   "Word": "Protocol",
+   "Part_of_Speech": "n",
+   "Definition": "Official procedure"
+ },
+ {
+   "Word": "Psychology",
+   "Part_of_Speech": "n",
+   "Definition": "Scientific study of mind"
+ },
+ {
+   "Word": "Publish",
+   "Part_of_Speech": "v",
+   "Definition": "Prepare and issue for public sale"
+ },
+ {
+   "Word": "Pursue",
+   "Part_of_Speech": "v",
+   "Definition": "Follow in order to catch"
+ },
+ {
+   "Word": "Qualitative",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to quality"
+ },
+ {
+   "Word": "Quote",
+   "Part_of_Speech": "v",
+   "Definition": "Repeat words from a text"
+ },
+ {
+   "Word": "Radical",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to the fundamental nature"
+ },
+ {
+   "Word": "Random",
+   "Part_of_Speech": "adj",
+   "Definition": "Made or done without method"
+ },
+ {
+   "Word": "Range",
+   "Part_of_Speech": "n",
+   "Definition": "Set of different things"
+ },
+ {
+   "Word": "Ratio",
+   "Part_of_Speech": "n",
+   "Definition": "Quantitative relation between two amounts"
+ },
+ {
+   "Word": "Rational",
+   "Part_of_Speech": "adj",
+   "Definition": "Based on reason"
+ },
+ {
+   "Word": "React",
+   "Part_of_Speech": "v",
+   "Definition": "Act in response"
+ },
+ {
+   "Word": "Recover",
+   "Part_of_Speech": "v",
+   "Definition": "Return to a normal state"
+ },
+ {
+   "Word": "Refine",
+   "Part_of_Speech": "v",
+   "Definition": "Improve by making small changes"
+ },
+ {
+   "Word": "Regime",
+   "Part_of_Speech": "n",
+   "Definition": "System or government"
+ },
+ {
+   "Word": "Region",
+   "Part_of_Speech": "n",
+   "Definition": "Area or division"
+ },
+ {
+   "Word": "Register",
+   "Part_of_Speech": "v",
+   "Definition": "Enter or record"
+ },
+ {
+   "Word": "Regulate",
+   "Part_of_Speech": "v",
+   "Definition": "Control or supervise"
+ },
+ {
+   "Word": "Reinforce",
+   "Part_of_Speech": "v",
+   "Definition": "Strengthen"
+ },
+ {
+   "Word": "Reject",
+   "Part_of_Speech": "v",
+   "Definition": "Dismiss as inadequate"
+ },
+ {
+   "Word": "Relax",
+   "Part_of_Speech": "v",
+   "Definition": "Become less tense"
+ },
+ {
+   "Word": "Release",
+   "Part_of_Speech": "v",
+   "Definition": "Allow to escape"
+ },
+ {
+   "Word": "Relevant",
+   "Part_of_Speech": "adj",
+   "Definition": "Closely connected"
+ },
+ {
+   "Word": "Reluctant",
+   "Part_of_Speech": "adj",
+   "Definition": "Unwilling"
+ },
+ {
+   "Word": "Rely",
+   "Part_of_Speech": "v",
+   "Definition": "Depend on with trust"
+ },
+ {
+   "Word": "Remove",
+   "Part_of_Speech": "v",
+   "Definition": "Take away"
+ },
+ {
+   "Word": "Require",
+   "Part_of_Speech": "v",
+   "Definition": "Need for a particular purpose"
+ },
+ {
+   "Word": "Research",
+   "Part_of_Speech": "n",
+   "Definition": "Systematic investigation"
+ },
+ {
+   "Word": "Reside",
+   "Part_of_Speech": "v",
+   "Definition": "Live in a particular place"
+ },
+ {
+   "Word": "Resolve",
+   "Part_of_Speech": "v",
+   "Definition": "Settle a problem"
+ },
+ {
+   "Word": "Resource",
+   "Part_of_Speech": "n",
+   "Definition": "Stock of materials"
+ },
+ {
+   "Word": "Respond",
+   "Part_of_Speech": "v",
+   "Definition": "Say something in reply"
+ },
+ {
+   "Word": "Restore",
+   "Part_of_Speech": "v",
+   "Definition": "Bring back to former condition"
+ },
+ {
+   "Word": "Restrain",
+   "Part_of_Speech": "v",
+   "Definition": "Keep under control"
+ },
+ {
+   "Word": "Restrict",
+   "Part_of_Speech": "v",
+   "Definition": "Put a limit on"
+ },
+ {
+   "Word": "Retain",
+   "Part_of_Speech": "v",
+   "Definition": "Continue to have"
+ },
+ {
+   "Word": "Reveal",
+   "Part_of_Speech": "v",
+   "Definition": "Make known"
+ },
+ {
+   "Word": "Revenue",
+   "Part_of_Speech": "n",
+   "Definition": "Income"
+ },
+ {
+   "Word": "Reverse",
+   "Part_of_Speech": "v",
+   "Definition": "Move backwards"
+ },
+ {
+   "Word": "Revise",
+   "Part_of_Speech": "v",
+   "Definition": "Re-examine and make alterations"
+ },
+ {
+   "Word": "Revolution",
+   "Part_of_Speech": "n",
+   "Definition": "Forcible overthrow of a government"
+ },
+ {
+   "Word": "Rigid",
+   "Part_of_Speech": "adj",
+   "Definition": "Unable to bend"
+ },
+ {
+   "Word": "Role",
+   "Part_of_Speech": "n",
+   "Definition": "Function assumed by someone"
+ },
+ {
+   "Word": "Route",
+   "Part_of_Speech": "n",
+   "Definition": "Way or course"
+ },
+ {
+   "Word": "Scenario",
+   "Part_of_Speech": "n",
+   "Definition": "Written outline of a plot"
+ },
+ {
+   "Word": "Schedule",
+   "Part_of_Speech": "n",
+   "Definition": "Plan of procedure"
+ },
+ {
+   "Word": "Scheme",
+   "Part_of_Speech": "n",
+   "Definition": "Systematic plan"
+ },
+ {
+   "Word": "Scope",
+   "Part_of_Speech": "n",
+   "Definition": "Extent of the area of activity"
+ },
+ {
+   "Word": "Section",
+   "Part_of_Speech": "n",
+   "Definition": "Distinct part"
+ },
+ {
+   "Word": "Sector",
+   "Part_of_Speech": "n",
+   "Definition": "Distinct part of an economy"
+ },
+ {
+   "Word": "Secure",
+   "Part_of_Speech": "v",
+   "Definition": "Succeed in obtaining"
+ },
+ {
+   "Word": "Seek",
+   "Part_of_Speech": "v",
+   "Definition": "Attempt to find"
+ },
+ {
+   "Word": "Select",
+   "Part_of_Speech": "v",
+   "Definition": "Carefully choose"
+ },
+ {
+   "Word": "Sequence",
+   "Part_of_Speech": "n",
+   "Definition": "Particular order"
+ },
+ {
+   "Word": "Series",
+   "Part_of_Speech": "n",
+   "Definition": "Number of things coming one after another"
+ },
+ {
+   "Word": "Shift",
+   "Part_of_Speech": "v",
+   "Definition": "Move from one place to another"
+ },
+ {
+   "Word": "Significant",
+   "Part_of_Speech": "adj",
+   "Definition": "Sufficiently great to be worthy of attention"
+ },
+ {
+   "Word": "Similar",
+   "Part_of_Speech": "adj",
+   "Definition": "Resembling without being identical"
+ },
+ {
+   "Word": "Simulate",
+   "Part_of_Speech": "v",
+   "Definition": "Imitate the appearance"
+ },
+ {
+   "Word": "Site",
+   "Part_of_Speech": "n",
+   "Definition": "Area of ground"
+ },
+ {
+   "Word": "So-called",
+   "Part_of_Speech": "adj",
+   "Definition": "Commonly described as"
+ },
+ {
+   "Word": "Sole",
+   "Part_of_Speech": "adj",
+   "Definition": "One and only"
+ },
+ {
+   "Word": "Somewhat",
+   "Part_of_Speech": "adv",
+   "Definition": "To a moderate extent"
+ },
+ {
+   "Word": "Source",
+   "Part_of_Speech": "n",
+   "Definition": "Place from which something comes"
+ },
+ {
+   "Word": "Specific",
+   "Part_of_Speech": "adj",
+   "Definition": "Clearly defined"
+ },
+ {
+   "Word": "Specify",
+   "Part_of_Speech": "v",
+   "Definition": "Identify clearly and definitely"
+ },
+ {
+   "Word": "Sphere",
+   "Part_of_Speech": "n",
+   "Definition": "Area of activity"
+ },
+ {
+   "Word": "Stable",
+   "Part_of_Speech": "adj",
+   "Definition": "Not likely to change"
+ },
+ {
+   "Word": "Statistic",
+   "Part_of_Speech": "n",
+   "Definition": "Fact or piece of data"
+ },
+ {
+   "Word": "Status",
+   "Part_of_Speech": "n",
+   "Definition": "Relative social or professional standing"
+ },
+ {
+   "Word": "Straightforward",
+   "Part_of_Speech": "adj",
+   "Definition": "Uncomplicated and easy to understand"
+ },
+ {
+   "Word": "Strategy",
+   "Part_of_Speech": "n",
+   "Definition": "Plan of action"
+ },
+ {
+   "Word": "Stress",
+   "Part_of_Speech": "n",
+   "Definition": "Pressure or tension"
+ },
+ {
+   "Word": "Structure",
+   "Part_of_Speech": "n",
+   "Definition": "Arrangement of and relations between parts"
+ },
+ {
+   "Word": "Style",
+   "Part_of_Speech": "n",
+   "Definition": "Manner of doing something"
+ },
+ {
+   "Word": "Submit",
+   "Part_of_Speech": "v",
+   "Definition": "Accept or yield to"
+ },
+ {
+   "Word": "Subordinate",
+   "Part_of_Speech": "adj",
+   "Definition": "Lower in rank"
+ },
+ {
+   "Word": "Subsequent",
+   "Part_of_Speech": "adj",
+   "Definition": "Coming after something in time"
+ },
+ {
+   "Word": "Subsidy",
+   "Part_of_Speech": "n",
+   "Definition": "Sum of money granted"
+ },
+ {
+   "Word": "Substitute",
+   "Part_of_Speech": "v",
+   "Definition": "Use in place of"
+ },
+ {
+   "Word": "Successive",
+   "Part_of_Speech": "adj",
+   "Definition": "Following one another"
+ },
+ {
+   "Word": "Sufficient",
+   "Part_of_Speech": "adj",
+   "Definition": "Enough"
+ },
+ {
+   "Word": "Sum",
+   "Part_of_Speech": "n",
+   "Definition": "Total amount"
+ },
+ {
+   "Word": "Summary",
+   "Part_of_Speech": "n",
+   "Definition": "Brief statement of main points"
+ },
+ {
+   "Word": "Supplement",
+   "Part_of_Speech": "n",
+   "Definition": "Thing added to complete something"
+ },
+ {
+   "Word": "Survey",
+   "Part_of_Speech": "n",
+   "Definition": "General view"
+ },
+ {
+   "Word": "Survive",
+   "Part_of_Speech": "v",
+   "Definition": "Continue to live"
+ },
+ {
+   "Word": "Suspend",
+   "Part_of_Speech": "v",
+   "Definition": "Temporarily prevent from continuing"
+ },
+ {
+   "Word": "Sustain",
+   "Part_of_Speech": "v",
+   "Definition": "Strengthen or support"
+ },
+ {
+   "Word": "Symbol",
+   "Part_of_Speech": "n",
+   "Definition": "Mark or character used as a representation"
+ },
+ {
+   "Word": "Tape",
+   "Part_of_Speech": "n",
+   "Definition": "Long narrow strip"
+ },
+ {
+   "Word": "Target",
+   "Part_of_Speech": "n",
+   "Definition": "Object of an attack"
+ },
+ {
+   "Word": "Task",
+   "Part_of_Speech": "n",
+   "Definition": "Piece of work to be done"
+ },
+ {
+   "Word": "Team",
+   "Part_of_Speech": "n",
+   "Definition": "Group of players"
+ },
+ {
+   "Word": "Technical",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to a particular subject"
+ },
+ {
+   "Word": "Technique",
+   "Part_of_Speech": "n",
+   "Definition": "Skill or way of doing something"
+ },
+ {
+   "Word": "Technology",
+   "Part_of_Speech": "n",
+   "Definition": "Application of scientific knowledge"
+ },
+ {
+   "Word": "Temporary",
+   "Part_of_Speech": "adj",
+   "Definition": "Lasting for a limited time"
+ },
+ {
+   "Word": "Tend",
+   "Part_of_Speech": "v",
+   "Definition": "Regularly or frequently behave in a particular way"
+ },
+ {
+   "Word": "Tension",
+   "Part_of_Speech": "n",
+   "Definition": "Mental or emotional strain"
+ },
+ {
+   "Word": "Term",
+   "Part_of_Speech": "n",
+   "Definition": "Word or phrase used to describe a thing"
+ },
+ {
+   "Word": "Terminate",
+   "Part_of_Speech": "v",
+   "Definition": "Bring to an end"
+ },
+ {
+   "Word": "Text",
+   "Part_of_Speech": "n",
+   "Definition": "Written work"
+ },
+ {
+   "Word": "Theme",
+   "Part_of_Speech": "n",
+   "Definition": "Topic"
+ },
+ {
+   "Word": "Theory",
+   "Part_of_Speech": "n",
+   "Definition": "Supposition intended to explain something"
+ },
+ {
+   "Word": "Thereby",
+   "Part_of_Speech": "adv",
+   "Definition": "By that means"
+ },
+ {
+   "Word": "Thesis",
+   "Part_of_Speech": "n",
+   "Definition": "Statement or theory"
+ },
+ {
+   "Word": "Topic",
+   "Part_of_Speech": "n",
+   "Definition": "Matter dealt with in a text"
+ },
+ {
+   "Word": "Trace",
+   "Part_of_Speech": "v",
+   "Definition": "Find or discover by investigation"
+ },
+ {
+   "Word": "Tradition",
+   "Part_of_Speech": "n",
+   "Definition": "Transmission of customs"
+ },
+ {
+   "Word": "Transfer",
+   "Part_of_Speech": "v",
+   "Definition": "Move from one place to another"
+ },
+ {
+   "Word": "Transform",
+   "Part_of_Speech": "v",
+   "Definition": "Make a thorough change"
+ },
+ {
+   "Word": "Transit",
+   "Part_of_Speech": "n",
+   "Definition": "Carrying of people"
+ },
+ {
+   "Word": "Transmit",
+   "Part_of_Speech": "v",
+   "Definition": "Cause to pass on"
+ },
+ {
+   "Word": "Transport",
+   "Part_of_Speech": "v",
+   "Definition": "Take or carry from one place to another"
+ },
+ {
+   "Word": "Trend",
+   "Part_of_Speech": "n",
+   "Definition": "General direction in which something is developing"
+ },
+ {
+   "Word": "Trigger",
+   "Part_of_Speech": "v",
+   "Definition": "Cause an event to happen"
+ },
+ {
+   "Word": "Ultimate",
+   "Part_of_Speech": "adj",
+   "Definition": "Being or happening at the end of a process"
+ },
+ {
+   "Word": "Undergo",
+   "Part_of_Speech": "v",
+   "Definition": "Experience or be subjected to"
+ },
+ {
+   "Word": "Underline",
+   "Part_of_Speech": "v",
+   "Definition": "Emphasize"
+ },
+ {
+   "Word": "Understand",
+   "Part_of_Speech": "v",
+   "Definition": "Perceive the intended meaning of"
+ },
+ {
+   "Word": "Undertake",
+   "Part_of_Speech": "v",
+   "Definition": "Commit oneself to"
+ },
+ {
+   "Word": "Uniform",
+   "Part_of_Speech": "adj",
+   "Definition": "Remaining the same in all cases"
+ },
+ {
+   "Word": "Unify",
+   "Part_of_Speech": "v",
+   "Definition": "Make or become united"
+ },
+ {
+   "Word": "Unique",
+   "Part_of_Speech": "adj",
+   "Definition": "Being the only one"
+ },
+ {
+   "Word": "Utilize",
+   "Part_of_Speech": "v",
+   "Definition": "Make practical use of"
+ },
+ {
+   "Word": "Valid",
+   "Part_of_Speech": "adj",
+   "Definition": "Having a sound basis in logic"
+ },
+ {
+   "Word": "Vary",
+   "Part_of_Speech": "v",
+   "Definition": "Differ in size"
+ },
+ {
+   "Word": "Vehicle",
+   "Part_of_Speech": "n",
+   "Definition": "Thing used for transporting people"
+ },
+ {
+   "Word": "Version",
+   "Part_of_Speech": "n",
+   "Definition": "Particular form of something"
+ },
+ {
+   "Word": "Via",
+   "Part_of_Speech": "prep",
+   "Definition": "By way of"
+ },
+ {
+   "Word": "Violate",
+   "Part_of_Speech": "v",
+   "Definition": "Break or fail to comply with"
+ },
+ {
+   "Word": "Virtual",
+   "Part_of_Speech": "adj",
+   "Definition": "Almost or nearly as described"
+ },
+ {
+   "Word": "Visible",
+   "Part_of_Speech": "adj",
+   "Definition": "Able to be seen"
+ },
+ {
+   "Word": "Vision",
+   "Part_of_Speech": "n",
+   "Definition": "Faculty of seeing"
+ },
+ {
+   "Word": "Visual",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to seeing"
+ },
+ {
+   "Word": "Volume",
+   "Part_of_Speech": "n",
+   "Definition": "Amount of space that an object occupies"
+ },
+ {
+   "Word": "Voluntary",
+   "Part_of_Speech": "adj",
+   "Definition": "Done, given, or acting of one's own free will"
+ },
+ {
+   "Word": "Welfare",
+   "Part_of_Speech": "n",
+   "Definition": "Health, happiness, and fortunes of a person"
+ },
+ {
+   "Word": "Whereas",
+   "Part_of_Speech": "conj",
+   "Definition": "In contrast or comparison"
+ },
+ {
+   "Word": "Whereby",
+   "Part_of_Speech": "adv",
+   "Definition": "By which"
+ },
+ {
+   "Word": "Widespread",
+   "Part_of_Speech": "adj",
+   "Definition": "Found or distributed over a large area"
+ },
+ {
+   "Word": "Work",
+   "Part_of_Speech": "n",
+   "Definition": "Activity involving mental or physical effort"
+ },
+ {
+   "Word": "Abate",
+   "Part_of_Speech": "v",
+   "Definition": "Lessen"
+ },
+ {
+   "Word": "Abbreviate",
+   "Part_of_Speech": "v",
+   "Definition": "Shorten"
+ },
+ {
+   "Word": "Abdicate",
+   "Part_of_Speech": "v",
+   "Definition": "Give up power"
+ },
+ {
+   "Word": "Abduct",
+   "Part_of_Speech": "v",
+   "Definition": "Kidnap"
+ },
+ {
+   "Word": "Aberration",
+   "Part_of_Speech": "n",
+   "Definition": "Departure from what is normal"
+ },
+ {
+   "Word": "Abet",
+   "Part_of_Speech": "v",
+   "Definition": "Encourage to do something wrong"
+ },
+ {
+   "Word": "Abhor",
+   "Part_of_Speech": "v",
+   "Definition": "Regard with disgust"
+ },
+ {
+   "Word": "Abject",
+   "Part_of_Speech": "adj",
+   "Definition": "Miserable"
+ },
+ {
+   "Word": "Ablaze",
+   "Part_of_Speech": "adj",
+   "Definition": "Burning"
+ },
+ {
+   "Word": "Able",
+   "Part_of_Speech": "adj",
+   "Definition": "Having the power"
+ },
+ {
+   "Word": "Abnormal",
+   "Part_of_Speech": "adj",
+   "Definition": "Not normal"
+ },
+ {
+   "Word": "Aboard",
+   "Part_of_Speech": "adv",
+   "Definition": "On a ship or vehicle"
+ },
+ {
+   "Word": "Abode",
+   "Part_of_Speech": "n",
+   "Definition": "Place of residence"
+ },
+ {
+   "Word": "Abolish",
+   "Part_of_Speech": "v",
+   "Definition": "Put an end to"
+ },
+ {
+   "Word": "Abominable",
+   "Part_of_Speech": "adj",
+   "Definition": "Very unpleasant"
+ },
+ {
+   "Word": "Aboriginal",
+   "Part_of_Speech": "adj",
+   "Definition": "Indigenous"
+ },
+ {
+   "Word": "Abort",
+   "Part_of_Speech": "v",
+   "Definition": "Bring to a premature end"
+ },
+ {
+   "Word": "Abound",
+   "Part_of_Speech": "v",
+   "Definition": "Exist in large numbers"
+ },
+ {
+   "Word": "About",
+   "Part_of_Speech": "prep",
+   "Definition": "Concerning"
+ },
+ {
+   "Word": "Above",
+   "Part_of_Speech": "prep",
+   "Definition": "Higher than"
+ },
+ {
+   "Word": "Abrade",
+   "Part_of_Speech": "v",
+   "Definition": "Scrape away"
+ },
+ {
+   "Word": "Abreast",
+   "Part_of_Speech": "adv",
+   "Definition": "Side by side"
+ },
+ {
+   "Word": "Abridge",
+   "Part_of_Speech": "v",
+   "Definition": "Shorten"
+ },
+ {
+   "Word": "Abrogate",
+   "Part_of_Speech": "v",
+   "Definition": "Repeal or do away with"
+ },
+ {
+   "Word": "Abrupt",
+   "Part_of_Speech": "adj",
+   "Definition": "Sudden"
+ },
+ {
+   "Word": "Abscess",
+   "Part_of_Speech": "n",
+   "Definition": "Collection of pus"
+ },
+ {
+   "Word": "Abscond",
+   "Part_of_Speech": "v",
+   "Definition": "Leave hurriedly to avoid detection"
+ },
+ {
+   "Word": "Absent",
+   "Part_of_Speech": "adj",
+   "Definition": "Not present"
+ },
+ {
+   "Word": "Absolute",
+   "Part_of_Speech": "adj",
+   "Definition": "Total"
+ },
+ {
+   "Word": "Absolve",
+   "Part_of_Speech": "v",
+   "Definition": "Set or declare free from blame"
+ },
+ {
+   "Word": "Absorb",
+   "Part_of_Speech": "v",
+   "Definition": "Soak up"
+ },
+ {
+   "Word": "Abstain",
+   "Part_of_Speech": "v",
+   "Definition": "Restrain oneself from doing something"
+ },
+ {
+   "Word": "Abstemious",
+   "Part_of_Speech": "adj",
+   "Definition": "Not self-indulgent"
+ },
+ {
+   "Word": "Abstruse",
+   "Part_of_Speech": "adj",
+   "Definition": "Difficult to understand"
+ },
+ {
+   "Word": "Absurd",
+   "Part_of_Speech": "adj",
+   "Definition": "Ridiculous"
+ },
+ {
+   "Word": "Abundant",
+   "Part_of_Speech": "adj",
+   "Definition": "Plentiful"
+ },
+ {
+   "Word": "Abuse",
+   "Part_of_Speech": "v",
+   "Definition": "Treat with cruelty"
+ },
+ {
+   "Word": "Abut",
+   "Part_of_Speech": "v",
+   "Definition": "Be next to"
+ },
+ {
+   "Word": "Abysmal",
+   "Part_of_Speech": "adj",
+   "Definition": "Extremely bad"
+ },
+ {
+   "Word": "Abyss",
+   "Part_of_Speech": "n",
+   "Definition": "Deep chasm"
+ },
+ {
+   "Word": "Academic",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to education"
+ },
+ {
+   "Word": "Accede",
+   "Part_of_Speech": "v",
+   "Definition": "Agree to a demand"
+ },
+ {
+   "Word": "Accelerate",
+   "Part_of_Speech": "v",
+   "Definition": "Speed up"
+ },
+ {
+   "Word": "Accent",
+   "Part_of_Speech": "n",
+   "Definition": "Distinctive mode of pronunciation"
+ },
+ {
+   "Word": "Accept",
+   "Part_of_Speech": "v",
+   "Definition": "Receive"
+ },
+ {
+   "Word": "Access",
+   "Part_of_Speech": "n",
+   "Definition": "Means of approaching"
+ },
+ {
+   "Word": "Accessible",
+   "Part_of_Speech": "adj",
+   "Definition": "Able to be reached"
+ },
+ {
+   "Word": "Accessory",
+   "Part_of_Speech": "n",
+   "Definition": "Thing which can be added"
+ },
+ {
+   "Word": "Accident",
+   "Part_of_Speech": "n",
+   "Definition": "Unfortunate incident"
+ },
+ {
+   "Word": "Acclaim",
+   "Part_of_Speech": "v",
+   "Definition": "Praise enthusiastically"
+ },
+ {
+   "Word": "Acclimate",
+   "Part_of_Speech": "v",
+   "Definition": "Get used to a new climate"
+ },
+ {
+   "Word": "Acclivity",
+   "Part_of_Speech": "n",
+   "Definition": "Upward slope"
+ },
+ {
+   "Word": "Accommodate",
+   "Part_of_Speech": "v",
+   "Definition": "Provide lodging"
+ },
+ {
+   "Word": "Accompaniment",
+   "Part_of_Speech": "n",
+   "Definition": "Something that goes with another"
+ },
+ {
+   "Word": "Accomplice",
+   "Part_of_Speech": "n",
+   "Definition": "Partner in crime"
+ },
+ {
+   "Word": "Accomplish",
+   "Part_of_Speech": "v",
+   "Definition": "Achieve"
+ },
+ {
+   "Word": "Accord",
+   "Part_of_Speech": "n",
+   "Definition": "Official agreement"
+ },
+ {
+   "Word": "Accost",
+   "Part_of_Speech": "v",
+   "Definition": "Approach aggressively"
+ },
+ {
+   "Word": "Account",
+   "Part_of_Speech": "n",
+   "Definition": "Report or description"
+ },
+ {
+   "Word": "Accredit",
+   "Part_of_Speech": "v",
+   "Definition": "Give credit to"
+ },
+ {
+   "Word": "Accrue",
+   "Part_of_Speech": "v",
+   "Definition": "Accumulate over time"
+ },
+ {
+   "Word": "Accursed",
+   "Part_of_Speech": "adj",
+   "Definition": "Under a curse"
+ },
+ {
+   "Word": "Accusation",
+   "Part_of_Speech": "n",
+   "Definition": "Charge of wrongdoing"
+ },
+ {
+   "Word": "Accustom",
+   "Part_of_Speech": "v",
+   "Definition": "Make familiar with"
+ },
+ {
+   "Word": "Ace",
+   "Part_of_Speech": "n",
+   "Definition": "Expert"
+ },
+ {
+   "Word": "Acerbic",
+   "Part_of_Speech": "adj",
+   "Definition": "Sharp and forthright"
+ },
+ {
+   "Word": "Acetate",
+   "Part_of_Speech": "n",
+   "Definition": "Salt or ester of acetic acid"
+ },
+ {
+   "Word": "Ache",
+   "Part_of_Speech": "v",
+   "Definition": "Pain"
+ },
+ {
+   "Word": "Achieve",
+   "Part_of_Speech": "v",
+   "Definition": "Succeed in doing"
+ },
+ {
+   "Word": "Acid",
+   "Part_of_Speech": "n",
+   "Definition": "Sour substance"
+ },
+ {
+   "Word": "Acknowledge",
+   "Part_of_Speech": "v",
+   "Definition": "Accept or admit"
+ },
+ {
+   "Word": "Acme",
+   "Part_of_Speech": "n",
+   "Definition": "Peak"
+ },
+ {
+   "Word": "Acquaint",
+   "Part_of_Speech": "v",
+   "Definition": "Make someone aware"
+ },
+ {
+   "Word": "Acquiesce",
+   "Part_of_Speech": "v",
+   "Definition": "Accept reluctantly"
+ },
+ {
+   "Word": "Acquit",
+   "Part_of_Speech": "v",
+   "Definition": "Free from a criminal charge"
+ },
+ {
+   "Word": "Acrid",
+   "Part_of_Speech": "adj",
+   "Definition": "Bitter smell"
+ },
+ {
+   "Word": "Acrimonious",
+   "Part_of_Speech": "adj",
+   "Definition": "Angry and bitter"
+ },
+ {
+   "Word": "Acrobat",
+   "Part_of_Speech": "n",
+   "Definition": "Gymnast"
+ },
+ {
+   "Word": "Acronym",
+   "Part_of_Speech": "n",
+   "Definition": "Word formed from initials"
+ },
+ {
+   "Word": "Across",
+   "Part_of_Speech": "prep",
+   "Definition": "From one side to another"
+ },
+ {
+   "Word": "Act",
+   "Part_of_Speech": "n",
+   "Definition": "Deed"
+ },
+ {
+   "Word": "Action",
+   "Part_of_Speech": "n",
+   "Definition": "Process of doing"
+ },
+ {
+   "Word": "Active",
+   "Part_of_Speech": "adj",
+   "Definition": "Engaging in work"
+ },
+ {
+   "Word": "Activity",
+   "Part_of_Speech": "n",
+   "Definition": "State of being active"
+ },
+ {
+   "Word": "Actor",
+   "Part_of_Speech": "n",
+   "Definition": "Performer"
+ },
+ {
+   "Word": "Actual",
+   "Part_of_Speech": "adj",
+   "Definition": "Existing in fact"
+ },
+ {
+   "Word": "Actuary",
+   "Part_of_Speech": "n",
+   "Definition": "Insurance statistician"
+ },
+ {
+   "Word": "Actuate",
+   "Part_of_Speech": "v",
+   "Definition": "Cause to operate"
+ },
+ {
+   "Word": "Acuity",
+   "Part_of_Speech": "n",
+   "Definition": "Sharpness of thought"
+ },
+ {
+   "Word": "Acumen",
+   "Part_of_Speech": "n",
+   "Definition": "Ability to make good judgments"
+ },
+ {
+   "Word": "Acute",
+   "Part_of_Speech": "adj",
+   "Definition": "Sharp"
+ },
+ {
+   "Word": "Adage",
+   "Part_of_Speech": "n",
+   "Definition": "Proverb"
+ },
+ {
+   "Word": "Adagio",
+   "Part_of_Speech": "adv",
+   "Definition": "Slowly"
+ },
+ {
+   "Word": "Adamant",
+   "Part_of_Speech": "adj",
+   "Definition": "Refusing to be persuaded"
+ },
+ {
+   "Word": "Add",
+   "Part_of_Speech": "v",
+   "Definition": "Join"
+ },
+ {
+   "Word": "Addict",
+   "Part_of_Speech": "n",
+   "Definition": "Devotee"
+ },
+ {
+   "Word": "Addiction",
+   "Part_of_Speech": "n",
+   "Definition": "State of being addicted"
+ },
+ {
+   "Word": "Addition",
+   "Part_of_Speech": "n",
+   "Definition": "Process of adding"
+ },
+ {
+   "Word": "Additional",
+   "Part_of_Speech": "adj",
+   "Definition": "Added"
+ },
+ {
+   "Word": "Additive",
+   "Part_of_Speech": "n",
+   "Definition": "Substance added"
+ },
+ {
+   "Word": "Addle",
+   "Part_of_Speech": "v",
+   "Definition": "Confuse"
+ },
+ {
+   "Word": "Address",
+   "Part_of_Speech": "v",
+   "Definition": "Speak to"
+ },
+ {
+   "Word": "Adept",
+   "Part_of_Speech": "adj",
+   "Definition": "Very skilled"
+ },
+ {
+   "Word": "Adhere",
+   "Part_of_Speech": "v",
+   "Definition": "Stick fast to"
+ },
+ {
+   "Word": "Adhesion",
+   "Part_of_Speech": "n",
+   "Definition": "Action of sticking"
+ },
+ {
+   "Word": "Adhesive",
+   "Part_of_Speech": "adj",
+   "Definition": "Sticky"
+ },
+ {
+   "Word": "Adieu",
+   "Part_of_Speech": "int",
+   "Definition": "Goodbye"
+ },
+ {
+   "Word": "Adipose",
+   "Part_of_Speech": "adj",
+   "Definition": "Fatty"
+ },
+ {
+   "Word": "Adjective",
+   "Part_of_Speech": "n",
+   "Definition": "Describing word"
+ },
+ {
+   "Word": "Adjoin",
+   "Part_of_Speech": "v",
+   "Definition": "Be next to"
+ },
+ {
+   "Word": "Adjourn",
+   "Part_of_Speech": "v",
+   "Definition": "Break off a meeting"
+ },
+ {
+   "Word": "Adjudge",
+   "Part_of_Speech": "v",
+   "Definition": "Consider to be"
+ },
+ {
+   "Word": "Adjudicate",
+   "Part_of_Speech": "v",
+   "Definition": "Make a formal judgment"
+ },
+ {
+   "Word": "Adjunct",
+   "Part_of_Speech": "n",
+   "Definition": "Something added"
+ },
+ {
+   "Word": "Adjure",
+   "Part_of_Speech": "v",
+   "Definition": "Command solemnly"
+ },
+ {
+   "Word": "Adjutant",
+   "Part_of_Speech": "n",
+   "Definition": "Military officer assistant"
+ },
+ {
+   "Word": "Admeasure",
+   "Part_of_Speech": "v",
+   "Definition": "Measure out"
+ },
+ {
+   "Word": "Administer",
+   "Part_of_Speech": "v",
+   "Definition": "Manage"
+ },
+ {
+   "Word": "Admirable",
+   "Part_of_Speech": "adj",
+   "Definition": "Deserving respect"
+ },
+ {
+   "Word": "Admiral",
+   "Part_of_Speech": "n",
+   "Definition": "Naval commander"
+ },
+ {
+   "Word": "Admire",
+   "Part_of_Speech": "v",
+   "Definition": "Regard with respect"
+ },
+ {
+   "Word": "Admission",
+   "Part_of_Speech": "n",
+   "Definition": "Confession"
+ },
+ {
+   "Word": "Admit",
+   "Part_of_Speech": "v",
+   "Definition": "Confess"
+ },
+ {
+   "Word": "Admonish",
+   "Part_of_Speech": "v",
+   "Definition": "Reprimand firmly"
+ },
+ {
+   "Word": "Ado",
+   "Part_of_Speech": "n",
+   "Definition": "Trouble"
+ },
+ {
+   "Word": "Adobe",
+   "Part_of_Speech": "n",
+   "Definition": "Sun-dried brick"
+ },
+ {
+   "Word": "Adolescent",
+   "Part_of_Speech": "n",
+   "Definition": "Teenager"
+ },
+ {
+   "Word": "Adopt",
+   "Part_of_Speech": "v",
+   "Definition": "Take on as one's own"
+ },
+ {
+   "Word": "Adoration",
+   "Part_of_Speech": "n",
+   "Definition": "Deep love"
+ },
+ {
+   "Word": "Adorn",
+   "Part_of_Speech": "v",
+   "Definition": "Decorate"
+ },
+ {
+   "Word": "Adrift",
+   "Part_of_Speech": "adj",
+   "Definition": "Floating without control"
+ },
+ {
+   "Word": "Adroit",
+   "Part_of_Speech": "adj",
+   "Definition": "Clever or skillful"
+ },
+ {
+   "Word": "Adulation",
+   "Part_of_Speech": "n",
+   "Definition": "Excessive admiration"
+ },
+ {
+   "Word": "Adult",
+   "Part_of_Speech": "n",
+   "Definition": "Fully grown person"
+ },
+ {
+   "Word": "Adulterate",
+   "Part_of_Speech": "v",
+   "Definition": "Make impure"
+ },
+ {
+   "Word": "Adumbrate",
+   "Part_of_Speech": "v",
+   "Definition": "Represent in outline"
+ },
+ {
+   "Word": "Advance",
+   "Part_of_Speech": "v",
+   "Definition": "Move forward"
+ },
+ {
+   "Word": "Advantage",
+   "Part_of_Speech": "n",
+   "Definition": "Condition giving superiority"
+ },
+ {
+   "Word": "Advent",
+   "Part_of_Speech": "n",
+   "Definition": "Arrival"
+ },
+ {
+   "Word": "Adventitious",
+   "Part_of_Speech": "adj",
+   "Definition": "Happening by chance"
+ },
+ {
+   "Word": "Adventure",
+   "Part_of_Speech": "n",
+   "Definition": "Unusual experience"
+ },
+ {
+   "Word": "Adverb",
+   "Part_of_Speech": "n",
+   "Definition": "Word modifying a verb"
+ },
+ {
+   "Word": "Adversary",
+   "Part_of_Speech": "n",
+   "Definition": "Opponent"
+ },
+ {
+   "Word": "Adverse",
+   "Part_of_Speech": "adj",
+   "Definition": "Preventing success"
+ },
+ {
+   "Word": "Adversity",
+   "Part_of_Speech": "n",
+   "Definition": "Difficulties"
+ },
+ {
+   "Word": "Advert",
+   "Part_of_Speech": "v",
+   "Definition": "Refer to in speech"
+ },
+ {
+   "Word": "Advertise",
+   "Part_of_Speech": "v",
+   "Definition": "Promote"
+ },
+ {
+   "Word": "Advice",
+   "Part_of_Speech": "n",
+   "Definition": "Guidance"
+ },
+ {
+   "Word": "Advise",
+   "Part_of_Speech": "v",
+   "Definition": "Give counsel"
+ },
+ {
+   "Word": "Aegis",
+   "Part_of_Speech": "n",
+   "Definition": "Protection"
+ },
+ {
+   "Word": "Aeon",
+   "Part_of_Speech": "n",
+   "Definition": "Long period of time"
+ },
+ {
+   "Word": "Aerate",
+   "Part_of_Speech": "v",
+   "Definition": "Introduce air"
+ },
+ {
+   "Word": "Aerial",
+   "Part_of_Speech": "adj",
+   "Definition": "Existing in the air"
+ },
+ {
+   "Word": "Aero",
+   "Part_of_Speech": "prefix",
+   "Definition": "Air"
+ },
+ {
+   "Word": "Aeroplane",
+   "Part_of_Speech": "n",
+   "Definition": "Flying vehicle"
+ },
+ {
+   "Word": "Aerosol",
+   "Part_of_Speech": "n",
+   "Definition": "Dispensing system"
+ },
+ {
+   "Word": "Aerospace",
+   "Part_of_Speech": "n",
+   "Definition": "Branch of technology"
+ },
+ {
+   "Word": "Aesthetic",
+   "Part_of_Speech": "adj",
+   "Definition": "Concerned with beauty"
+ },
+ {
+   "Word": "Affable",
+   "Part_of_Speech": "adj",
+   "Definition": "Friendly"
+ },
+ {
+   "Word": "Affair",
+   "Part_of_Speech": "n",
+   "Definition": "Event"
+ },
+ {
+   "Word": "Affectation",
+   "Part_of_Speech": "n",
+   "Definition": "Behavior designed to impress"
+ },
+ {
+   "Word": "Affections",
+   "Part_of_Speech": "n",
+   "Definition": "Emotions"
+ },
+ {
+   "Word": "Affiance",
+   "Part_of_Speech": "v",
+   "Definition": "Engage to marry"
+ },
+ {
+   "Word": "Affidavit",
+   "Part_of_Speech": "n",
+   "Definition": "Written statement on oath"
+ },
+ {
+   "Word": "Affiliate",
+   "Part_of_Speech": "v",
+   "Definition": "Attach"
+ },
+ {
+   "Word": "Affinity",
+   "Part_of_Speech": "n",
+   "Definition": "Natural liking"
+ },
+ {
+   "Word": "Affirm",
+   "Part_of_Speech": "v",
+   "Definition": "State as a fact"
+ },
+ {
+   "Word": "Affirmative",
+   "Part_of_Speech": "adj",
+   "Definition": "Agreeing"
+ },
+ {
+   "Word": "Affix",
+   "Part_of_Speech": "v",
+   "Definition": "Attach"
+ },
+ {
+   "Word": "Afflict",
+   "Part_of_Speech": "v",
+   "Definition": "Cause pain to"
+ },
+ {
+   "Word": "Affluence",
+   "Part_of_Speech": "n",
+   "Definition": "Abundance of money"
+ },
+ {
+   "Word": "Afford",
+   "Part_of_Speech": "v",
+   "Definition": "Have enough money"
+ },
+ {
+   "Word": "Affray",
+   "Part_of_Speech": "n",
+   "Definition": "Public brawl"
+ },
+ {
+   "Word": "Affright",
+   "Part_of_Speech": "v",
+   "Definition": "Frighten"
+ },
+ {
+   "Word": "Affront",
+   "Part_of_Speech": "n",
+   "Definition": "Insult"
+ },
+ {
+   "Word": "Afield",
+   "Part_of_Speech": "adv",
+   "Definition": "Away from home"
+ },
+ {
+   "Word": "Afire",
+   "Part_of_Speech": "adj",
+   "Definition": "On fire"
+ },
+ {
+   "Word": "Aflame",
+   "Part_of_Speech": "adj",
+   "Definition": "In flames"
+ },
+ {
+   "Word": "Afloat",
+   "Part_of_Speech": "adj",
+   "Definition": "Floating"
+ },
+ {
+   "Word": "Afoot",
+   "Part_of_Speech": "adj",
+   "Definition": "Happening"
+ },
+ {
+   "Word": "Aforementioned",
+   "Part_of_Speech": "adj",
+   "Definition": "Mentioned before"
+ },
+ {
+   "Word": "Aforesaid",
+   "Part_of_Speech": "adj",
+   "Definition": "Stated before"
+ },
+ {
+   "Word": "Aforethought",
+   "Part_of_Speech": "adj",
+   "Definition": "Premeditated"
+ },
+ {
+   "Word": "Afraid",
+   "Part_of_Speech": "adj",
+   "Definition": "Frightened"
+ },
+ {
+   "Word": "Afresh",
+   "Part_of_Speech": "adv",
+   "Definition": "Anew"
+ },
+ {
+   "Word": "African",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to Africa"
+ },
+ {
+   "Word": "Aft",
+   "Part_of_Speech": "adv",
+   "Definition": "At the stern of a ship"
+ },
+ {
+   "Word": "After",
+   "Part_of_Speech": "prep",
+   "Definition": "Following"
+ },
+ {
+   "Word": "Aftermath",
+   "Part_of_Speech": "n",
+   "Definition": "Consequences"
+ },
+ {
+   "Word": "Afternoon",
+   "Part_of_Speech": "n",
+   "Definition": "Part of the day"
+ },
+ {
+   "Word": "Afterthought",
+   "Part_of_Speech": "n",
+   "Definition": "Thought occurring later"
+ },
+ {
+   "Word": "Afterward",
+   "Part_of_Speech": "adv",
+   "Definition": "At a later time"
+ },
+ {
+   "Word": "Again",
+   "Part_of_Speech": "adv",
+   "Definition": "Once more"
+ },
+ {
+   "Word": "Against",
+   "Part_of_Speech": "prep",
+   "Definition": "In opposition to"
+ },
+ {
+   "Word": "Agape",
+   "Part_of_Speech": "adj",
+   "Definition": "Mouth wide open"
+ },
+ {
+   "Word": "Agate",
+   "Part_of_Speech": "n",
+   "Definition": "Hard stone"
+ },
+ {
+   "Word": "Age",
+   "Part_of_Speech": "n",
+   "Definition": "Length of time"
+ },
+ {
+   "Word": "Aged",
+   "Part_of_Speech": "adj",
+   "Definition": "Old"
+ },
+ {
+   "Word": "Agency",
+   "Part_of_Speech": "n",
+   "Definition": "Business"
+ },
+ {
+   "Word": "Agenda",
+   "Part_of_Speech": "n",
+   "Definition": "List of items to discuss"
+ },
+ {
+   "Word": "Agent",
+   "Part_of_Speech": "n",
+   "Definition": "Representative"
+ },
+ {
+   "Word": "Agglomerate",
+   "Part_of_Speech": "v",
+   "Definition": "Collect into a mass"
+ },
+ {
+   "Word": "Aggrandize",
+   "Part_of_Speech": "v",
+   "Definition": "Increase power"
+ },
+ {
+   "Word": "Aggravate",
+   "Part_of_Speech": "v",
+   "Definition": "Make worse"
+ },
+ {
+   "Word": "Aggression",
+   "Part_of_Speech": "n",
+   "Definition": "Hostile action"
+ },
+ {
+   "Word": "Aggrieve",
+   "Part_of_Speech": "v",
+   "Definition": "Treat unfairly"
+ },
+ {
+   "Word": "Aghast",
+   "Part_of_Speech": "adj",
+   "Definition": "Filled with horror"
+ },
+ {
+   "Word": "Agile",
+   "Part_of_Speech": "adj",
+   "Definition": "Able to move quickly"
+ },
+ {
+   "Word": "Agitate",
+   "Part_of_Speech": "v",
+   "Definition": "Make troubled"
+ },
+ {
+   "Word": "Aglow",
+   "Part_of_Speech": "adj",
+   "Definition": "Glowing"
+ },
+ {
+   "Word": "Agnostic",
+   "Part_of_Speech": "n",
+   "Definition": "Doubter"
+ },
+ {
+   "Word": "Ago",
+   "Part_of_Speech": "adv",
+   "Definition": "In the past"
+ },
+ {
+   "Word": "Agog",
+   "Part_of_Speech": "adj",
+   "Definition": "Eager"
+ },
+ {
+   "Word": "Agonize",
+   "Part_of_Speech": "v",
+   "Definition": "Struggle with"
+ },
+ {
+   "Word": "Agony",
+   "Part_of_Speech": "n",
+   "Definition": "Great pain"
+ },
+ {
+   "Word": "Agrarian",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to land"
+ },
+ {
+   "Word": "Agree",
+   "Part_of_Speech": "v",
+   "Definition": "Have the same opinion"
+ },
+ {
+   "Word": "Agreeable",
+   "Part_of_Speech": "adj",
+   "Definition": "Pleasant"
+ },
+ {
+   "Word": "Agriculture",
+   "Part_of_Speech": "n",
+   "Definition": "Farming"
+ },
+ {
+   "Word": "Aground",
+   "Part_of_Speech": "adv",
+   "Definition": "On the ground"
+ },
+ {
+   "Word": "Ah",
+   "Part_of_Speech": "int",
+   "Definition": "Expression of surprise"
+ },
+ {
+   "Word": "Aha",
+   "Part_of_Speech": "int",
+   "Definition": "Expression of triumph"
+ },
+ {
+   "Word": "Ahead",
+   "Part_of_Speech": "adv",
+   "Definition": "Further forward"
+ },
+ {
+   "Word": "Ahem",
+   "Part_of_Speech": "int",
+   "Definition": "Sound to attract attention"
+ },
+ {
+   "Word": "Aid",
+   "Part_of_Speech": "n",
+   "Definition": "Help"
+ },
+ {
+   "Word": "Aide",
+   "Part_of_Speech": "n",
+   "Definition": "Assistant"
+ },
+ {
+   "Word": "Ail",
+   "Part_of_Speech": "v",
+   "Definition": "Feel unwell"
+ },
+ {
+   "Word": "Ailment",
+   "Part_of_Speech": "n",
+   "Definition": "Illness"
+ },
+ {
+   "Word": "Aim",
+   "Part_of_Speech": "v",
+   "Definition": "Point at"
+ },
+ {
+   "Word": "Aimless",
+   "Part_of_Speech": "adj",
+   "Definition": "Without purpose"
+ },
+ {
+   "Word": "Air",
+   "Part_of_Speech": "n",
+   "Definition": "Atmosphere"
+ },
+ {
+   "Word": "Airborne",
+   "Part_of_Speech": "adj",
+   "Definition": "In flight"
+ },
+ {
+   "Word": "Aircraft",
+   "Part_of_Speech": "n",
+   "Definition": "Airplane"
+ },
+ {
+   "Word": "Airedale",
+   "Part_of_Speech": "n",
+   "Definition": "Breed of dog"
+ },
+ {
+   "Word": "Airily",
+   "Part_of_Speech": "adv",
+   "Definition": "In a light manner"
+ },
+ {
+   "Word": "Airiness",
+   "Part_of_Speech": "n",
+   "Definition": "Lightness"
+ },
+ {
+   "Word": "Airless",
+   "Part_of_Speech": "adj",
+   "Definition": "Stuffy"
+ },
+ {
+   "Word": "Airlift",
+   "Part_of_Speech": "n",
+   "Definition": "Transport by aircraft"
+ },
+ {
+   "Word": "Airline",
+   "Part_of_Speech": "n",
+   "Definition": "Air transport company"
+ },
+ {
+   "Word": "Airman",
+   "Part_of_Speech": "n",
+   "Definition": "Pilot"
+ },
+ {
+   "Word": "Airplane",
+   "Part_of_Speech": "n",
+   "Definition": "Aircraft"
+ },
+ {
+   "Word": "Airship",
+   "Part_of_Speech": "n",
+   "Definition": "Blimp"
+ },
+ {
+   "Word": "Airy",
+   "Part_of_Speech": "adj",
+   "Definition": "Light"
+ },
+ {
+   "Word": "Aisle",
+   "Part_of_Speech": "n",
+   "Definition": "Passageway"
+ },
+ {
+   "Word": "Ajar",
+   "Part_of_Speech": "adj",
+   "Definition": "Slightly open"
+ },
+ {
+   "Word": "Akimbo",
+   "Part_of_Speech": "adj",
+   "Definition": "Hands on hips"
+ },
+ {
+   "Word": "Akin",
+   "Part_of_Speech": "adj",
+   "Definition": "Similar to"
+ },
+ {
+   "Word": "Alabaster",
+   "Part_of_Speech": "adj",
+   "Definition": "White and smooth"
+ },
+ {
+   "Word": "Alack",
+   "Part_of_Speech": "int",
+   "Definition": "Expression of regret"
+ },
+ {
+   "Word": "Alacrity",
+   "Part_of_Speech": "n",
+   "Definition": "Briskness"
+ },
+ {
+   "Word": "Aladdin",
+   "Part_of_Speech": "n",
+   "Definition": "Fictional character"
+ },
+ {
+   "Word": "Alarm",
+   "Part_of_Speech": "n",
+   "Definition": "Warning sound"
+ },
+ {
+   "Word": "Alarmist",
+   "Part_of_Speech": "n",
+   "Definition": "Person who spreads alarm"
+ },
+ {
+   "Word": "Alas",
+   "Part_of_Speech": "int",
+   "Definition": "Expression of sorrow"
+ },
+ {
+   "Word": "Albino",
+   "Part_of_Speech": "n",
+   "Definition": "Person lacking pigment"
+ },
+ {
+   "Word": "Album",
+   "Part_of_Speech": "n",
+   "Definition": "Collection of photos"
+ },
+ {
+   "Word": "Albumen",
+   "Part_of_Speech": "n",
+   "Definition": "Egg white"
+ },
+ {
+   "Word": "Alchemy",
+   "Part_of_Speech": "n",
+   "Definition": "Magic chemistry"
+ },
+ {
+   "Word": "Alcohol",
+   "Part_of_Speech": "n",
+   "Definition": "Intoxicating liquid"
+ },
+ {
+   "Word": "Alcoholic",
+   "Part_of_Speech": "adj",
+   "Definition": "Containing alcohol"
+ },
+ {
+   "Word": "Alcove",
+   "Part_of_Speech": "n",
+   "Definition": "Recess in a room"
+ },
+ {
+   "Word": "Alder",
+   "Part_of_Speech": "n",
+   "Definition": "Type of tree"
+ },
+ {
+   "Word": "Alderman",
+   "Part_of_Speech": "n",
+   "Definition": "Member of council"
+ },
+ {
+   "Word": "Ale",
+   "Part_of_Speech": "n",
+   "Definition": "Type of beer"
+ },
+ {
+   "Word": "Alert",
+   "Part_of_Speech": "adj",
+   "Definition": "Wide awake"
+ },
+ {
+   "Word": "Alfalfa",
+   "Part_of_Speech": "n",
+   "Definition": "Forage plant"
+ },
+ {
+   "Word": "Algebra",
+   "Part_of_Speech": "n",
+   "Definition": "Mathematical branch"
+ },
+ {
+   "Word": "Alias",
+   "Part_of_Speech": "n",
+   "Definition": "False name"
+ },
+ {
+   "Word": "Alibi",
+   "Part_of_Speech": "n",
+   "Definition": "Claim of being elsewhere"
+ },
+ {
+   "Word": "Alien",
+   "Part_of_Speech": "adj",
+   "Definition": "Foreign"
+ },
+ {
+   "Word": "Alienate",
+   "Part_of_Speech": "v",
+   "Definition": "Cause to feel isolated"
+ },
+ {
+   "Word": "Alight",
+   "Part_of_Speech": "v",
+   "Definition": "Descend from"
+ },
+ {
+   "Word": "Align",
+   "Part_of_Speech": "v",
+   "Definition": "Place in a line"
+ },
+ {
+   "Word": "Alike",
+   "Part_of_Speech": "adj",
+   "Definition": "Similar"
+ },
+ {
+   "Word": "Aliment",
+   "Part_of_Speech": "n",
+   "Definition": "Food"
+ },
+ {
+   "Word": "Alimony",
+   "Part_of_Speech": "n",
+   "Definition": "Spousal support"
+ },
+ {
+   "Word": "Alive",
+   "Part_of_Speech": "adj",
+   "Definition": "Living"
+ },
+ {
+   "Word": "Alkali",
+   "Part_of_Speech": "n",
+   "Definition": "Soluble salt"
+ },
+ {
+   "Word": "All",
+   "Part_of_Speech": "adj",
+   "Definition": "The whole"
+ },
+ {
+   "Word": "Allay",
+   "Part_of_Speech": "v",
+   "Definition": "Diminish"
+ },
+ {
+   "Word": "Allege",
+   "Part_of_Speech": "v",
+   "Definition": "Claim"
+ },
+ {
+   "Word": "Allegiance",
+   "Part_of_Speech": "n",
+   "Definition": "Loyalty"
+ },
+ {
+   "Word": "Allegory",
+   "Part_of_Speech": "n",
+   "Definition": "Story with symbolic meaning"
+ },
+ {
+   "Word": "Alleviate",
+   "Part_of_Speech": "v",
+   "Definition": "Make easier"
+ },
+ {
+   "Word": "Alley",
+   "Part_of_Speech": "n",
+   "Definition": "Narrow street"
+ },
+ {
+   "Word": "Alliance",
+   "Part_of_Speech": "n",
+   "Definition": "Union"
+ },
+ {
+   "Word": "Alligator",
+   "Part_of_Speech": "n",
+   "Definition": "Reptile"
+ },
+ {
+   "Word": "Alliteration",
+   "Part_of_Speech": "n",
+   "Definition": "Repetition of sounds"
+ },
+ {
+   "Word": "Allot",
+   "Part_of_Speech": "v",
+   "Definition": "Give as a share"
+ },
+ {
+   "Word": "Allow",
+   "Part_of_Speech": "v",
+   "Definition": "Permit"
+ },
+ {
+   "Word": "Alloy",
+   "Part_of_Speech": "n",
+   "Definition": "Metal mixture"
+ },
+ {
+   "Word": "Allude",
+   "Part_of_Speech": "v",
+   "Definition": "Mention indirectly"
+ },
+ {
+   "Word": "Allure",
+   "Part_of_Speech": "n",
+   "Definition": "Power to attract"
+ },
+ {
+   "Word": "Allusion",
+   "Part_of_Speech": "n",
+   "Definition": "Indirect reference"
+ },
+ {
+   "Word": "Alluvial",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to clay"
+ },
+ {
+   "Word": "Ally",
+   "Part_of_Speech": "n",
+   "Definition": "Partner"
+ },
+ {
+   "Word": "Almanac",
+   "Part_of_Speech": "n",
+   "Definition": "Annual calendar"
+ },
+ {
+   "Word": "Almighty",
+   "Part_of_Speech": "adj",
+   "Definition": "All-powerful"
+ },
+ {
+   "Word": "Almond",
+   "Part_of_Speech": "n",
+   "Definition": "Nut"
+ },
+ {
+   "Word": "Almoner",
+   "Part_of_Speech": "n",
+   "Definition": "Distributor of alms"
+ },
+ {
+   "Word": "Alms",
+   "Part_of_Speech": "n",
+   "Definition": "Charity"
+ },
+ {
+   "Word": "Aloft",
+   "Part_of_Speech": "adv",
+   "Definition": "Upwards"
+ },
+ {
+   "Word": "Alone",
+   "Part_of_Speech": "adj",
+   "Definition": "By oneself"
+ },
+ {
+   "Word": "Along",
+   "Part_of_Speech": "prep",
+   "Definition": "Moving on"
+ },
+ {
+   "Word": "Aloof",
+   "Part_of_Speech": "adj",
+   "Definition": "Distant"
+ },
+ {
+   "Word": "Aloud",
+   "Part_of_Speech": "adv",
+   "Definition": "Audibly"
+ },
+ {
+   "Word": "Alp",
+   "Part_of_Speech": "n",
+   "Definition": "Mountain"
+ },
+ {
+   "Word": "Alpaca",
+   "Part_of_Speech": "n",
+   "Definition": "Animal related to llama"
+ },
+ {
+   "Word": "Alpha",
+   "Part_of_Speech": "n",
+   "Definition": "First letter"
+ },
+ {
+   "Word": "Alphabet",
+   "Part_of_Speech": "n",
+   "Definition": "Letters of language"
+ },
+ {
+   "Word": "Alpine",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to Alps"
+ },
+ {
+   "Word": "Already",
+   "Part_of_Speech": "adv",
+   "Definition": "Before now"
+ },
+ {
+   "Word": "Also",
+   "Part_of_Speech": "adv",
+   "Definition": "In addition"
+ },
+ {
+   "Word": "Altar",
+   "Part_of_Speech": "n",
+   "Definition": "Table for worship"
+ },
+ {
+   "Word": "Altercation",
+   "Part_of_Speech": "n",
+   "Definition": "Noisy argument"
+ },
+ {
+   "Word": "Alternate",
+   "Part_of_Speech": "v",
+   "Definition": "Take turns"
+ },
+ {
+   "Word": "Alternative",
+   "Part_of_Speech": "n",
+   "Definition": "Choice"
+ },
+ {
+   "Word": "Although",
+   "Part_of_Speech": "conj",
+   "Definition": "Even though"
+ },
+ {
+   "Word": "Altitude",
+   "Part_of_Speech": "n",
+   "Definition": "Height"
+ },
+ {
+   "Word": "Altogether",
+   "Part_of_Speech": "adv",
+   "Definition": "Completely"
+ },
+ {
+   "Word": "Altruism",
+   "Part_of_Speech": "n",
+   "Definition": "Selflessness"
+ },
+ {
+   "Word": "Alum",
+   "Part_of_Speech": "n",
+   "Definition": "Astringent salt"
+ },
+ {
+   "Word": "Alumnus",
+   "Part_of_Speech": "n",
+   "Definition": "Graduate"
+ },
+ {
+   "Word": "Always",
+   "Part_of_Speech": "adv",
+   "Definition": "At all times"
+ },
+ {
+   "Word": "Am",
+   "Part_of_Speech": "v",
+   "Definition": "Be"
+ },
+ {
+   "Word": "Amalgam",
+   "Part_of_Speech": "n",
+   "Definition": "Mixture"
+ },
+ {
+   "Word": "Amalgamate",
+   "Part_of_Speech": "v",
+   "Definition": "Combine"
+ },
+ {
+   "Word": "Amanuensis",
+   "Part_of_Speech": "n",
+   "Definition": "Secretary"
+ },
+ {
+   "Word": "Amass",
+   "Part_of_Speech": "v",
+   "Definition": "Gather"
+ },
+ {
+   "Word": "Amateur",
+   "Part_of_Speech": "n",
+   "Definition": "Non-professional"
+ },
+ {
+   "Word": "Amative",
+   "Part_of_Speech": "adj",
+   "Definition": "Loving"
+ },
+ {
+   "Word": "Amatory",
+   "Part_of_Speech": "adj",
+   "Definition": "Relating to love"
+ },
+ {
+   "Word": "Amaze",
+   "Part_of_Speech": "v",
+   "Definition": "Surprise"
+ },
+ {
+   "Word": "Amazon",
+   "Part_of_Speech": "n",
+   "Definition": "River or tall woman"
+ },
+ {
+   "Word": "Ambassador",
+   "Part_of_Speech": "n",
+   "Definition": "Diplomat"
+ },
+ {
+   "Word": "Amber",
+   "Part_of_Speech": "n",
+   "Definition": "Fossil resin"
+ },
+ {
+   "Word": "Ambidextrous",
+   "Part_of_Speech": "adj",
+   "Definition": "Able to use both hands"
+ },
+ {
+   "Word": "Ambience",
+   "Part_of_Speech": "n",
+   "Definition": "Atmosphere"
+ },
+ {
+   "Word": "Ambit",
+   "Part_of_Speech": "n",
+   "Definition": "Scope"
+ },
+ {
+   "Word": "Ambition",
+   "Part_of_Speech": "n",
+   "Definition": "Desire for success"
+ },
+ {
+   "Word": "Ambitious",
+   "Part_of_Speech": "adj",
+   "Definition": "Having ambition"
+ },
+ {
+   "Word": "Amble",
+   "Part_of_Speech": "v",
+   "Definition": "Walk slowly"
+ },
+ {
+   "Word": "Ambrosia",
+   "Part_of_Speech": "n",
+   "Definition": "Food of gods"
+ },
+ {
+   "Word": "Ambulance",
+   "Part_of_Speech": "n",
+   "Definition": "Emergency vehicle"
+ },
+ {
+   "Word": "Ambuscade",
+   "Part_of_Speech": "n",
+   "Definition": "Ambush"
+ },
+ {
+   "Word": "Ameliorate",
+   "Part_of_Speech": "v",
+   "Definition": "Make better"
+ },
+ {
+   "Word": "Amenable",
+   "Part_of_Speech": "adj",
+   "Definition": "Responsive"
+ },
+ {
+   "Word": "Amenity",
+   "Part_of_Speech": "n",
+   "Definition": "Desirable feature"
+ },
+ {
+   "Word": "Amerce",
+   "Part_of_Speech": "v",
+   "Definition": "Punish with fine"
+ },
+ {
+   "Word": "American",
+   "Part_of_Speech": "adj",
+   "Definition": "Of America"
+ },
+ {
+   "Word": "Amethyst",
+   "Part_of_Speech": "n",
+   "Definition": "Purple gem"
+ },
+ {
+   "Word": "Amiable",
+   "Part_of_Speech": "adj",
+   "Definition": "Friendly"
+ },
+ {
+   "Word": "Amicable",
+   "Part_of_Speech": "adj",
+   "Definition": "Peaceful"
+ },
+ {
+   "Word": "Amid",
+   "Part_of_Speech": "prep",
+   "Definition": "In the middle of"
+ },
+ {
+   "Word": "Amiss",
+   "Part_of_Speech": "adj",
+   "Definition": "Wrong"
+ },
+ {
+   "Word": "Amity",
+   "Part_of_Speech": "n",
+   "Definition": "Friendship"
+ },
+ {
+   "Word": "Ammeter",
+   "Part_of_Speech": "n",
+   "Definition": "Current measurer"
+ },
+ {
+   "Word": "Ammonia",
+   "Part_of_Speech": "n",
+   "Definition": "Gas"
+ },
+ {
+   "Word": "Ammunition",
+   "Part_of_Speech": "n",
+   "Definition": "Bullets"
+ },
+ {
+   "Word": "Amnesia",
+   "Part_of_Speech": "n",
+   "Definition": "Memory loss"
+ },
+ {
+   "Word": "Amnesty",
+   "Part_of_Speech": "n",
+   "Definition": "Official pardon"
+ },
+ {
+   "Word": "Amoeba",
+   "Part_of_Speech": "n",
+   "Definition": "Microscopic organism"
+ },
+ {
+   "Word": "Among",
+   "Part_of_Speech": "prep",
+   "Definition": "In the company of"
+ },
+ {
+   "Word": "Amorous",
+   "Part_of_Speech": "adj",
+   "Definition": "Showing love"
+ },
+ {
+   "Word": "Amorphous",
+   "Part_of_Speech": "adj",
+   "Definition": "Without shape"
+ },
+ {
+   "Word": "Amount",
+   "Part_of_Speech": "n",
+   "Definition": "Quantity"
+ },
+ {
+   "Word": "Amour",
+   "Part_of_Speech": "n",
+   "Definition": "Love affair"
+ },
+ {
+   "Word": "Ampere",
+   "Part_of_Speech": "n",
+   "Definition": "Unit of current"
+ },
+ {
+   "Word": "Amperage",
+   "Part_of_Speech": "n",
+   "Definition": "Strength of current"
+ },
+ {
+   "Word": "Amphibian",
+   "Part_of_Speech": "n",
+   "Definition": "Creature living on land and water"
+ },
+ {
+   "Word": "Amphitheater",
+   "Part_of_Speech": "n",
+   "Definition": "Open-air venue"
+ },
+ {
+   "Word": "Ample",
+   "Part_of_Speech": "adj",
+   "Definition": "Enough"
+ },
+ {
+   "Word": "Amplify",
+   "Part_of_Speech": "v",
+   "Definition": "Increase volume"
+ },
+ {
+   "Word": "Amplitude",
+   "Part_of_Speech": "n",
+   "Definition": "Breadth"
+ },
+ {
+   "Word": "Ampoule",
+   "Part_of_Speech": "n",
+   "Definition": "Glass container"
+ },
+ {
+   "Word": "Amputate",
+   "Part_of_Speech": "v",
+   "Definition": "Cut off"
+ },
+ {
+   "Word": "Amuck",
+   "Part_of_Speech": "adv",
+   "Definition": "In a frenzy"
+ },
+ {
+   "Word": "Amulet",
+   "Part_of_Speech": "n",
+   "Definition": "Charm"
+ },
+ {
+   "Word": "Amuse",
+   "Part_of_Speech": "v",
+   "Definition": "Entertain"
+ },
+ {
+   "Word": "An",
+   "Part_of_Speech": "art",
+   "Definition": "Article"
+ },
+ {
+   "Word": "Anabaptist",
+   "Part_of_Speech": "n",
+   "Definition": "Religious sect"
+ },
+ {
+   "Word": "Anachronism",
+   "Part_of_Speech": "n",
+   "Definition": "Out of date"
+ },
+ {
+   "Word": "Anagram",
+   "Part_of_Speech": "n",
+   "Definition": "Word play"
+ },
+ {
+   "Word": "Analects",
+   "Part_of_Speech": "n",
+   "Definition": "Selected writings"
+ },
+ {
+   "Word": "Analogous",
+   "Part_of_Speech": "adj",
+   "Definition": "Comparable"
+ },
+ {
+   "Word": "Analysis",
+   "Part_of_Speech": "n",
+   "Definition": "Detailed examination"
+ },
+ {
+   "Word": "Analyst",
+   "Part_of_Speech": "n",
+   "Definition": "Expert"
+ },
+ {
+   "Word": "Anarchy",
+   "Part_of_Speech": "n",
+   "Definition": "Lack of government"
+ },
+ {
+   "Word": "Anathema",
+   "Part_of_Speech": "n",
+   "Definition": "Curse"
+ },
+ {
+   "Word": "Anatomy",
+   "Part_of_Speech": "n",
+   "Definition": "Bodily structure"
+ },
+ {
+   "Word": "Ancestor",
+   "Part_of_Speech": "n",
+   "Definition": "Forbear"
+ },
+ {
+   "Word": "Ancestry",
+   "Part_of_Speech": "n",
+   "Definition": "Lineage"
+ },
+ {
+   "Word": "Anchor",
+   "Part_of_Speech": "n",
+   "Definition": "Device to hold ship"
+ },
+ {
+   "Word": "Anchorage",
+   "Part_of_Speech": "n",
+   "Definition": "Place to anchor"
+ },
+ {
+   "Word": "Anchoret",
+   "Part_of_Speech": "n",
+   "Definition": "Hermit"
+ },
+ {
+   "Word": "Ancient",
+   "Part_of_Speech": "adj",
+   "Definition": "Very old"
+ },
+ {
+   "Word": "And",
+   "Part_of_Speech": "conj",
+   "Definition": "Also"
+ },
+ {
+   "Word": "Andiron",
+   "Part_of_Speech": "n",
+   "Definition": "Metal stand"
+ },
+ {
+   "Word": "Anecdote",
+   "Part_of_Speech": "n",
+   "Definition": "Short story"
+ },
+ {
+   "Word": "Anemia",
+   "Part_of_Speech": "n",
+   "Definition": "Low blood count"
+ },
+ {
+   "Word": "Anemometer",
+   "Part_of_Speech": "n",
+   "Definition": "Wind gauge"
+ },
+ {
+   "Word": "Anemone",
+   "Part_of_Speech": "n",
+   "Definition": "Flower"
+ },
+ {
+   "Word": "Aneroid",
+   "Part_of_Speech": "adj",
+   "Definition": "Without liquid"
+ },
+ {
+   "Word": "Anew",
+   "Part_of_Speech": "adv",
+   "Definition": "Again"
+ },
+ {
+   "Word": "Angelic",
+   "Part_of_Speech": "adj",
+   "Definition": "Like an angel"
+ },
+ {
+   "Word": "Anger",
+   "Part_of_Speech": "n",
+   "Definition": "Strong feeling of annoyance"
+ },
+ {
+   "Word": "Angle",
+   "Part_of_Speech": "n",
+   "Definition": "Space between intersecting lines"
+ },
+ {
+   "Word": "Angler",
+   "Part_of_Speech": "n",
+   "Definition": "Fisherman"
+ },
+ {
+   "Word": "Anglican",
+   "Part_of_Speech": "adj",
+   "Definition": "Church of England"
+ },
+ {
+   "Word": "Anglicize",
+   "Part_of_Speech": "v",
+   "Definition": "Make English"
+ },
+ {
+   "Word": "Angling",
+   "Part_of_Speech": "n",
+   "Definition": "Fishing"
+ },
+ {
+   "Word": "Angora",
+   "Part_of_Speech": "n",
+   "Definition": "Type of fur"
+ },
+ {
+   "Word": "Angrily",
+   "Part_of_Speech": "adv",
+   "Definition": "With anger"
+ },
+ {
+   "Word": "Anguish",
+   "Part_of_Speech": "n",
+   "Definition": "Severe pain"
+ },
+ {
+   "Word": "Angular",
+   "Part_of_Speech": "adj",
+   "Definition": "Having angles"
+ },
+ {
+   "Word": "Anil",
+   "Part_of_Speech": "n",
+   "Definition": "Indigo plant"
+ },
+ {
+   "Word": "Aniline",
+   "Part_of_Speech": "n",
+   "Definition": "Dye"
+ },
+ {
+   "Word": "Animal",
+   "Part_of_Speech": "n",
+   "Definition": "Living creature"
+ },
+ {
+   "Word": "Animalcule",
+   "Part_of_Speech": "n",
+   "Definition": "Microscopic animal"
+ },
+ {
+   "Word": "Animate",
+   "Part_of_Speech": "v",
+   "Definition": "Bring to life"
+ },
+ {
+   "Word": "Animadvert",
+   "Part_of_Speech": "v",
+   "Definition": "Criticize"
+ },
+ {
+   "Word": "Animation",
+   "Part_of_Speech": "n",
+   "Definition": "Liveliness"
+ },
+ {
+   "Word": "Animism",
+   "Part_of_Speech": "n",
+   "Definition": "Belief in spirits"
+ },
+ {
+   "Word": "Animosity",
+   "Part_of_Speech": "n",
+   "Definition": "Hostility"
+ },
+ {
+   "Word": "Animus",
+   "Part_of_Speech": "n",
+   "Definition": "Hostile feeling"
+ },
+ {
+   "Word": "Anion",
+   "Part_of_Speech": "n",
+   "Definition": "Negative ion"
+ },
+ {
+   "Word": "Anise",
+   "Part_of_Speech": "n",
+   "Definition": "Herb"
+ },
+ {
+   "Word": "Ankle",
+   "Part_of_Speech": "n",
+   "Definition": "Joint between foot and leg"
+ },
+ {
+   "Word": "Annalist",
+   "Part_of_Speech": "n",
+   "Definition": "Writer of annals"
+ },
+ {
+   "Word": "Annals",
+   "Part_of_Speech": "n",
+   "Definition": "Historical records"
+ },
+ {
+   "Word": "Anneal",
+   "Part_of_Speech": "v",
+   "Definition": "Heat and cool metal"
+ },
+ {
+   "Word": "Annex",
+   "Part_of_Speech": "v",
+   "Definition": "Add as an extra"
+ },
+ {
+   "Word": "Annihilate",
+   "Part_of_Speech": "v",
+   "Definition": "Destroy completely"
+ },
+ {
+   "Word": "Anniversary",
+   "Part_of_Speech": "n",
+   "Definition": "Annual celebration"
+ }
+]
