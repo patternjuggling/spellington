@@ -22,7 +22,6 @@ export default class WordManager {
         if (this.vocabulary.length === 0) return null;
         
         this.currentIndex++;
-        // Loop back and reshuffle if we run out
         if (this.currentIndex >= this.vocabulary.length) {
             this.currentIndex = 0;
             this.shuffleArray(this.vocabulary); 
@@ -30,20 +29,11 @@ export default class WordManager {
         return this.vocabulary[this.currentIndex];
     }
 
+    // Still used to shuffle the 4 choices so the correct one isn't always first
     shuffleArray(array) {
         for (let i = array.length - 1; i > 0; i--) {
             const j = Math.floor(Math.random() * (i + 1));
             [array[i], array[j]] = [array[j], array[i]];
         }
-    }
-
-    // New: Get decoy words for the multiple choice display
-    getDecoys(count, correctWord) {
-        // Filter out the correct word to ensure no duplicates
-        const others = this.vocabulary.filter(item => item.Word !== correctWord);
-        
-        // Shuffle the others and take the first N
-        this.shuffleArray(others);
-        return others.slice(0, count).map(item => item.Word);
     }
 }

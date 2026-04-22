@@ -11,50 +11,40 @@ export default class GameController {
             this.uiHandler.showError("Could not load game data.");
             return;
         }
-        
         this.uiHandler.bindInputListener(this.handleInput.bind(this));
-        
-        // Bind the new hint listener
         this.uiHandler.bindHintListener(this.handleHint.bind(this));
-        
         this.loadNextTurn();
-    }
-
-    handleHint() {
-        if (this.state.isTransitioning || !this.state.currentWordObj) return;
-
-        const fullWord = this.state.currentWordObj.Word;
-        // Take the first 3 letters (or the whole word if it's shorter than 3)
-        const hint = fullWord.substring(0, 3);
-        
-        this.uiHandler.showHintInInput(hint);
     }
 
     loadNextTurn() {
         this.state.isTransitioning = false;
-        this.state.currentWordObj = this.wordManager.getNextWord();
-        
-        const correctWord = this.state.currentWordObj.Word;
-        
-        // 1. Get 3 random decoys
-        const decoys = this.wordManager.getDecoys(3, correctWord);
-        
-        // 2. Combine with correct word and shuffle for the UI display
-        const options = [correctWord, ...decoys];
-        this.wordManager.shuffleArray(options);
+        const wordData = this.wordManager.getNextWord();
+        this.state.currentWordObj = wordData;
 
-        // 3. Render everything
+        // 1. Gather the correct spelling and the 3 specific distractors
+        const choices = [
+            wordData.Correct_Spelling,
+            wordData.Distractor_1,
+            wordData.Distractor_2,
+            wordData.Distractor_3
+        ];
+
+        // 2. Shuffle them so the correct one appears in a random position
+        this.wordManager.shuffleArray(choices);
+
+        // 3. Render
         this.uiHandler.renderTurn(
-            this.state.currentWordObj.Definition, 
-            this.state.currentWordObj.Part_of_Speech,
-            options
+            wordData.Definition, 
+            wordData.Part_of_Speech,
+            choices
         );
     }
 
     handleInput(userInput) {
         if (this.state.isTransitioning) return;
 
-        const targetWord = this.state.currentWordObj.Word.toLowerCase();
+        // Update: Use 'Correct_Spelling' instead of 'Word'
+        const targetWord = this.state.currentWordObj.Correct_Spelling.toLowerCase();
         const normalizedInput = userInput.trim().toLowerCase();
 
         if (normalizedInput === targetWord) {
@@ -64,12 +54,19 @@ export default class GameController {
         }
     }
 
+    handleHint() {
+        if (this.state.isTransitioning || !this.state.currentWordObj) return;
+        // Update: Use 'Correct_Spelling'
+        const hint = this.state.currentWordObj.Correct_Spelling.substring(0, 3);
+        this.uiHandler.showHintInInput(hint);
+    }
+
     handleSuccess() {
         this.state.isTransitioning = true;
         this.state.score++;
         this.uiHandler.updateScore(this.state.score);
         this.uiHandler.triggerSuccessAnimation();
-        setTimeout(() => this.loadNextTurn(), 800); 
+        setTimeout(() => this.loadNextTurn(), 800);
     }
 
     handleFailure() {
@@ -78,6 +75,6 @@ export default class GameController {
         setTimeout(() => {
             this.uiHandler.clearInput();
             this.state.isTransitioning = false;
-        }, 500); 
+        }, 500);
     }
 }
