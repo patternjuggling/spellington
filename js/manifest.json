@@ -7,12 +7,12 @@
     "theme_color": "#fbfbfd",
     "icons": [
       {
-        "src": "https://via.placeholder.com/192",
+        "src": "https://github.com/patternjuggling/spellington/blob/2808e7efa9c3fd18ca38ad682806eb673dbd7598/icon.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "https://via.placeholder.com/512",
+        "src": "https://github.com/patternjuggling/spellington/blob/2808e7efa9c3fd18ca38ad682806eb673dbd7598/icon.png",
         "sizes": "512x512",
         "type": "image/png"
       }
